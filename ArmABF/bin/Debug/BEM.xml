@@ -1,0 +1,4026 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BEM
+</name>
+</assembly>
+<members>
+<member name="T:BEM.My.Resources.Dutch">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Dutch.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Dutch.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.German">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_backed_up">
+<summary>
+  Looks up a localized string similar to Originale {0} wurde gesichert und das neue wurde erfolgreich gespeichert.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to Sie haben diese Datei verändert, bitte speichern sie diese Datei erst.{0}{0}Falls sie nicht speichern wollen, klicken sie auf OK und laden sie die nochmal..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to Sind sie sicher, dass sie diesen Filtereintrag löschen wollen?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to Sind sie sicher, dass sie diesen Keywordeintrag löschen wollen?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to Konnte die Datei &quot;&quot;{0}.txt&quot;&quot; nicht finden. Stellen sie sicher, dass sie dieses Programm auf dem BattlEye Verzeichnis laufen lassen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_done">
+<summary>
+  Looks up a localized string similar to Erledigt!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_edited">
+<summary>
+  Looks up a localized string similar to Geändert.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to Datei konnte nicht gespeichert werden. Folgender Fehler ist aufgetreten:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to Der Text beinhaltet vielleicht Backslashs, die eventuell entflohen werden müssen, wollen sie dies beheben?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_items_imported">
+<summary>
+  Looks up a localized string similar to Ausgewählte Items wurden importiert. Bitte denken sie daran ihre Änderungen zu speichern..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_latest_version">
+<summary>
+  Looks up a localized string similar to Letzte Version.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_loading_error">
+<summary>
+  Looks up a localized string similar to Es gab einen Fehler beim laden dieser Datei, ist es eine BattlEye Datei?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_need_keyword">
+<summary>
+  Looks up a localized string similar to Sie müssen ein Keyword eingeben. Falls sie ein leeres Keyword wollen, bitte eintragen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to Sie müssen einen Ausnahmetyp auswählen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to Sie müssen einen Logging Type auswählen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to Sie müssen zuerst eine Datei öffnen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to Sie müssen zuerst einen Filter auswählen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to Sie müssen zuerst eine Linie auswählen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_need_value">
+<summary>
+  Looks up a localized string similar to Sie müssen einen wert eingeben..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_no_files_found">
+<summary>
+  Looks up a localized string similar to Keine Dateien gefunden.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_no_log">
+<summary>
+  Looks up a localized string similar to Sie haben keine .log Datei für diese Datei..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_not_scripts">
+<summary>
+  Looks up a localized string similar to Diese Liste funktioniert nicht wie Scripte.{0}{0}Wir werden die Ausnahmen, die sie entscheiden hinzufügen, aber die Keywords werden eventuell in ein paar Fällen entfernt..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_not_supported">
+<summary>
+  Looks up a localized string similar to Es tut mir leid, diese .log Datei wird noch nicht von BEM fürs importieren unterstützt..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to Sie haben nichts zum importieren ausgewählt..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_processing">
+<summary>
+  Looks up a localized string similar to Verarbeitung.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_scanning">
+<summary>
+  Looks up a localized string similar to Scannen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_too_long">
+<summary>
+  Looks up a localized string similar to Diese .log Datei ist über 50,000 Zeilen lang. Es wurden nur die ersten 50,000 gescannt..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to Kann BEM im Moment nicht starten. Bitte versichern sie sich dass beide der folgenden Bedingungen erfüllt sind:{0}{0}- Sie lassen dies von ihrem BattlEye Ordner laufen.{0}- Sie haben den ArmA 3 Server mindestens einmal laufen lassen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_update_application">
+<summary>
+  Looks up a localized string similar to Update Anwendung.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_upload_email">
+<summary>
+  Looks up a localized string similar to Die E-Mail Adresse die sie eingetragen haben ist ungültig..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_upload_explain">
+<summary>
+  Looks up a localized string similar to Um mir zu helfen BEM zu verbessern, geben Sie bitte eine kurze Erklärung was nicht funktioniert..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to Um mir zu helfen BEM zu verbessern, bitte wählen sie mindestens eine Datei zum hochladen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to Ihre Dateien wurden hochladen! Danke für die Einreichung ihrer Scripte um zu helfen BEM besser zu machen!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to Lade ZIP Datei hoch.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_upload_zip">
+<summary>
+  Looks up a localized string similar to Erstelle ZIP Datei.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to ZIP Datei hochladen!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_wait">
+<summary>
+  Looks up a localized string similar to Warte!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.s_write_protect">
+<summary>
+  Looks up a localized string similar to Konnte Einstellungen nicht speichern, weil ein Fehler beim schreiben der Datei aufgetreten ist..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_about">
+<summary>
+  Looks up a localized string similar to Über.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_add_filter">
+<summary>
+  Looks up a localized string similar to Filter hinzufügen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_add_keyword">
+<summary>
+  Looks up a localized string similar to Keyword hinzufügen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_cancel">
+<summary>
+  Looks up a localized string similar to Abbrechen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to Nach Updates suchen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_choose">
+<summary>
+  Looks up a localized string similar to Wähle aus.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_choose_file">
+<summary>
+  Looks up a localized string similar to Datei auswählen:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to Derzeit geladen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_donate">
+<summary>
+  Looks up a localized string similar to Spenden.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_edit_filter">
+<summary>
+  Looks up a localized string similar to Filter bearbeiten.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to Keyword bearbeiten.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_exception_type">
+<summary>
+  Looks up a localized string similar to Ausnahmetyp.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_idle">
+<summary>
+  Looks up a localized string similar to Untätig.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_import_as">
+<summary>
+  Looks up a localized string similar to Importiere Angekreuzte als .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to Importiere von Logs.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_keyword">
+<summary>
+  Looks up a localized string similar to Keyword.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to Keywords die doppelte Anführungszeichen beinhalten müssen diese mit einem Backslash entfliehen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to Keywords die Leerzeichen enthalten müssen in doppelte Anführungszeichen gesetzt werden..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_load_file">
+<summary>
+  Looks up a localized string similar to Datei laden.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_load_to_start">
+<summary>
+  Looks up a localized string similar to Nichts ist geladen. Lade eine Datei um zu Starten..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type">
+<summary>
+  Looks up a localized string similar to Protokollierungstyp.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to Eintrag in die .log Datei.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to Eintrag in die Konsole.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to Eintrag in beide.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to Kick ohne Eintrag.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to Kick und Eintrag in die .log Datei.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to Kick und Eintrag in die Konsole.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to Kick und Eintrag in beide.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to Keine Datei Erkannt.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_options">
+<summary>
+  Looks up a localized string similar to Optionen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to Der Parameter muss genau mit der Ausnahme übereinstimmen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to Der Parameter muss die Ausnahme enthalten..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_remove_filter">
+<summary>
+  Looks up a localized string similar to Filter entfernen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to Keyword entfernen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_save_file">
+<summary>
+  Looks up a localized string similar to Datei speichern.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_select_all">
+<summary>
+  Looks up a localized string similar to Alle auswählen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_select_none">
+<summary>
+  Looks up a localized string similar to Nichts auswählen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_send">
+<summary>
+  Looks up a localized string similar to Senden.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_upload_email">
+<summary>
+  Looks up a localized string similar to Optional können sie mir auch ihre E-Mail Adresse hinterlassen, falls sie denken das ich sie kontaktieren muss.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to Die folgenden Dateien werden zu mir gesendet, deaktivieren sie die Items, die sie nicht senden wollen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_upload_intro">
+<summary>
+  Looks up a localized string similar to Falls sie Probleme damit haben dass ihre Filter Dateien nicht Korrekt geladen werden oder ein paar Items nicht Korrekt erkannt werden, bitte benutze das Formular unten um ihre Filter bei mir einzureichen und ich werde gucken das BEM in der Zukunft besser für dich funktioniert! Bitte benutze dies nur wenn sie Probleme haben..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_upload_message">
+<summary>
+  Looks up a localized string similar to Bitte schreibe eine kurze Nachricht in der sie erklären welche Probleme sie mit ihren Filtern haben.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to Scripte hochladen.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_value">
+<summary>
+  Looks up a localized string similar to Wert.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.German.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to Wert sollte in Anführungszeichen gesetzt sein.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.asterisk_yellow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.cn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.de">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.disk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.door_in">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.es">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.fi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.fr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.gb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.kr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.money_pound">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.nl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.package_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.page_find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.ru">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.script_go">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.textfield_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.textfield_delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.textfield_rename">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Resources.tick">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.ChineseS">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_backed_up">
+<summary>
+  Looks up a localized string similar to 旧 {0} 己被备分 并储存了新{0}..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to 你更改了档案, 请先储存.{0}{0},如果你不储存，按 OK 再载入新的档案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to 你肯定要删除这个过滤器吗？.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to 你肯定要删除这个关键字吗?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to 找不到 &quot;&quot;{0}.txt&quot;&quot;. 确定你是在你的伺服器由BattlEye目录开启这个档案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_done">
+<summary>
+  Looks up a localized string similar to 完成!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_edited">
+<summary>
+  Looks up a localized string similar to 修改了..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to 不能储存. 发生了错误:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to 文件有一些反斜线可能要被跳脱, 你修改了吗?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_items_imported">
+<summary>
+  Looks up a localized string similar to 选择了的档案已被汇入. 请记得要储存..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_latest_version">
+<summary>
+  Looks up a localized string similar to 最新版本.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_loading_error">
+<summary>
+  Looks up a localized string similar to 在载入这档案途中有错误, 那个是个BattleEye档案吗?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_need_keyword">
+<summary>
+  Looks up a localized string similar to 你要输入一个关键字. 如果你想要一个空白的关键字, 请输入.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to 你要先选择一种例外..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to 您要先选择一种记录..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to 你要先开一个档案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to 您要先选择一个过滤器..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to 您要先选择一行..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_need_value">
+<summary>
+  Looks up a localized string similar to 您要输入一个数值..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_no_files_found">
+<summary>
+  Looks up a localized string similar to 找不到任何档案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_no_log">
+<summary>
+  Looks up a localized string similar to 这个档案没有任何纪录..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_not_scripts">
+<summary>
+  Looks up a localized string similar to 这列表比脚本的运作模式不同.{0}{0}我们会把你选择的都加入例外, 但是有些关键字可能会被删去..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_not_supported">
+<summary>
+  Looks up a localized string similar to 抱歉，BEM还未有能力汇入这个记录文件. 真的很抱歉..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to 您还未选择任何东西去汇入..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_processing">
+<summary>
+  Looks up a localized string similar to 处理中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_scanning">
+<summary>
+  Looks up a localized string similar to 扫描中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_too_long">
+<summary>
+  Looks up a localized string similar to 这个纪录档案超过五万行.只会扫描头五万行..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to 无法开启BEM. 请确定能达到这两个要求:{0}{0}- 你是在BattlEye 文件夹开启BEM.{0}- 你最少运行一次ArmA 3 伺服器..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_update_application">
+<summary>
+  Looks up a localized string similar to 更新档案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_upload_email">
+<summary>
+  Looks up a localized string similar to 这个电邮地址不存在. 你打错字了吧？.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_upload_explain">
+<summary>
+  Looks up a localized string similar to 为了可以令BEM更上一层楼，请告诉我们什么地方出问题. 谢谢了！！！（笑 .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to 为了可以令BEM更上一层楼，请上载至少一个档案. 谢谢了！！！（笑..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to 已上载你的档案! 谢谢你上载这些档案耶! ！！！！（害羞.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to 上载压缩档案（ZIP）中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_upload_zip">
+<summary>
+  Looks up a localized string similar to 创造压缩档案（ZIP）中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to 上载了压缩档案（ZIP）!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_wait">
+<summary>
+  Looks up a localized string similar to 请等一等! 给一些耐性来（说笑，等多一下就可以了.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.s_write_protect">
+<summary>
+  Looks up a localized string similar to 由于编写文件时出错，无法保存设置。.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_about">
+<summary>
+  Looks up a localized string similar to 关于BEM.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_add_filter">
+<summary>
+  Looks up a localized string similar to 增加过滤器.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_add_keyword">
+<summary>
+  Looks up a localized string similar to 增加关键字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_cancel">
+<summary>
+  Looks up a localized string similar to 取消.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to 检查有没有更新.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_choose">
+<summary>
+  Looks up a localized string similar to 请选择.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_choose_file">
+<summary>
+  Looks up a localized string similar to 请选择档案:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to 暂时载入了.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_donate">
+<summary>
+  Looks up a localized string similar to 捐赠（不一定要，但十分鼓励.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_edit_filter">
+<summary>
+  Looks up a localized string similar to 更改过滤器.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to 更改关键字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_exception_type">
+<summary>
+  Looks up a localized string similar to 例外类型.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_idle">
+<summary>
+  Looks up a localized string similar to 闲置（不是关掉了.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_import_as">
+<summary>
+  Looks up a localized string similar to 把选择的汇入为 .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to 从记录汇入.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_keyword">
+<summary>
+  Looks up a localized string similar to 关键字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to 有双引号（&quot;&quot;）的关键字一定要有反斜线去跳脱..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to 有空格的关键字一定要在双引号（&quot;&quot;）里面..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_load_file">
+<summary>
+  Looks up a localized string similar to 载入档案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_load_to_start">
+<summary>
+  Looks up a localized string similar to 什么都没有啊. 请载入一个档案去开始..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type">
+<summary>
+  Looks up a localized string similar to 纪录类型.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to 只记录在.log 档案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to 只记录在控制台.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to 记录在.log和控制台.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to 踢走玩家（不记录）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to 踢走玩家（只记录在.log 档案）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to 踢走玩家（只记录在控制台）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to 踢走玩家（记录在.log和控制台）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to 什么档案都检测不到哦.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_options">
+<summary>
+  Looks up a localized string similar to 设定.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to 这参数一定要符合例外..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to 这参数一定要包含例外..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_remove_filter">
+<summary>
+  Looks up a localized string similar to 删去过滤器.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to 删去关键字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_save_file">
+<summary>
+  Looks up a localized string similar to 储存档案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_select_all">
+<summary>
+  Looks up a localized string similar to 选择所有东西.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_select_none">
+<summary>
+  Looks up a localized string similar to 取消所有选择.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_send">
+<summary>
+  Looks up a localized string similar to 传送！（效果音效.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_upload_email">
+<summary>
+  Looks up a localized string similar to （非必要）如果你觉得我要联络你的话, 你可以留下你的电邮地址（我不会给垃圾邮件的）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to 以下的档案全都会传给我. 把不想给我的档案都取消选择吧.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_upload_intro">
+<summary>
+  Looks up a localized string similar to 如果你的过滤器（很不幸地）有问题, 例如它们不能正确地载入, 或者某些东西没能正确的被检测, 请用以下的表格去提交你的过滤器. 我会努力的令BEM进步的！（正能量（真的有问题才用这个，不要突然把你的过滤器给我呀） ..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_upload_message">
+<summary>
+  Looks up a localized string similar to 请花出一些时间写一写你的过滤器有什么问题，这会令我们有机会令BEM进步（笑.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to 上载脚本.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_value">
+<summary>
+  Looks up a localized string similar to 数值.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseS.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to 数值应该要在双引号（&quot;&quot;）里面.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.ChineseT">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_backed_up">
+<summary>
+  Looks up a localized string similar to 舊 {0} 己被備分 並儲存了新{0}..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to 你更改了檔案, 請先儲存.{0}{0},如果你不儲存，按 OK 再載入新的檔案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to 你肯定要刪除這個過濾器嗎？.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to 你肯定要刪除這個關鍵字嗎?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to 找不到 &quot;&quot;{0}.txt&quot;&quot;. 確定你是在你的伺服器由BattlEye目錄開啟這個檔案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_done">
+<summary>
+  Looks up a localized string similar to 完成!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_edited">
+<summary>
+  Looks up a localized string similar to 修改了..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to 不能儲存. 發生了錯誤:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to 文件有一些反斜線可能要被跳脫, 你修改了嗎?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_items_imported">
+<summary>
+  Looks up a localized string similar to 選擇了的檔案已被匯入. 請記得要儲存..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_latest_version">
+<summary>
+  Looks up a localized string similar to 最新版本.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_loading_error">
+<summary>
+  Looks up a localized string similar to 在載入這檔案途中有錯誤, 那個是個BattleEye檔案嗎?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_need_keyword">
+<summary>
+  Looks up a localized string similar to 你要輸入一個關鍵字. 如果你想要一個空白的關鍵字, 請輸入.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to 你要先選擇一種例外..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to 您要先選擇一種記錄..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to 你要先開一個檔案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to 您要先選擇一個過濾器..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to 您要先選擇一行..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_need_value">
+<summary>
+  Looks up a localized string similar to 您要輸入一個數值..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_no_files_found">
+<summary>
+  Looks up a localized string similar to 找不到任何檔案..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_no_log">
+<summary>
+  Looks up a localized string similar to 這個檔案沒有任何紀錄..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_not_scripts">
+<summary>
+  Looks up a localized string similar to 這列表比腳本的運作模式不同.{0}{0}我們會把你選擇的都加入例外, 但是有些關鍵字可能會被刪去..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_not_supported">
+<summary>
+  Looks up a localized string similar to 抱歉，BEM還未有能力匯入這個記錄文件. 真的很抱歉..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to 您還未選擇任何東西去匯入..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_processing">
+<summary>
+  Looks up a localized string similar to 處理中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_scanning">
+<summary>
+  Looks up a localized string similar to 掃描中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_too_long">
+<summary>
+  Looks up a localized string similar to 這個紀錄檔案超過五萬行.只會掃描頭五萬行..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to 無法開啟BEM. 請確定能達到這兩個要求:{0}{0}- 你是在BattlEye 文件夾開啟BEM.{0}- 你最少運行一次ArmA 3 伺服器..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_update_application">
+<summary>
+  Looks up a localized string similar to 更新檔案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_upload_email">
+<summary>
+  Looks up a localized string similar to 這個電郵地址不存在. 你打錯字了吧？.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_upload_explain">
+<summary>
+  Looks up a localized string similar to 為了可以令BEM更上一層樓，請告訴我們什麼地方出問題. 謝謝了！！！（笑 .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to 為了可以令BEM更上一層樓，請上載至少一個檔案. 謝謝了！！！（笑..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to 已上載你的檔案! 謝謝你上載這些檔案耶! ！！！！（害羞.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to 上載壓縮檔案（ZIP）中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_upload_zip">
+<summary>
+  Looks up a localized string similar to 創造壓縮檔案（ZIP）中.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to 上載了壓縮檔案（ZIP）!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_wait">
+<summary>
+  Looks up a localized string similar to 請等一等! 給一些耐性來（說笑，等多一下就可以了.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.s_write_protect">
+<summary>
+  Looks up a localized string similar to 由於編寫文件時出錯，無法保存設置。.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_about">
+<summary>
+  Looks up a localized string similar to 關於BEM.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_add_filter">
+<summary>
+  Looks up a localized string similar to 增加過濾器.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_add_keyword">
+<summary>
+  Looks up a localized string similar to 增加關鍵字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_cancel">
+<summary>
+  Looks up a localized string similar to 取消.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to 檢查有沒有更新.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_choose">
+<summary>
+  Looks up a localized string similar to 請選擇.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_choose_file">
+<summary>
+  Looks up a localized string similar to 請選擇檔案:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to 暫時載入了.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_donate">
+<summary>
+  Looks up a localized string similar to 捐贈（不一定要，但十分鼓勵.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_edit_filter">
+<summary>
+  Looks up a localized string similar to 更改過濾器.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to 更改關鍵字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_exception_type">
+<summary>
+  Looks up a localized string similar to 例外類型.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_idle">
+<summary>
+  Looks up a localized string similar to 閒置（不是關掉了.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_import_as">
+<summary>
+  Looks up a localized string similar to 把選擇的匯入為 .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to 從記錄匯入.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_keyword">
+<summary>
+  Looks up a localized string similar to 關鍵字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to 有雙引號（&quot;&quot;）的關鍵字一定要有反斜線去跳脫..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to 有空格的關鍵字一定要在雙引號（&quot;&quot;）裏面..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_load_file">
+<summary>
+  Looks up a localized string similar to 載入檔案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_load_to_start">
+<summary>
+  Looks up a localized string similar to 什麼都沒有啊. 請載入一個檔案去開始..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type">
+<summary>
+  Looks up a localized string similar to 紀錄類型.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to 只記錄在.log 檔案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to 只記錄在控制台.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to 記錄在.log和控制台.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to 踢走玩家（不記錄）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to 踢走玩家（只記錄在.log 檔案）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to 踢走玩家（只記錄在控制台）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to 踢走玩家（記錄在.log和控制台）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to 什麼檔案都檢測不到哦.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_options">
+<summary>
+  Looks up a localized string similar to 設定.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to 這參數一定要符合例外..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to 這參數一定要包含例外..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_remove_filter">
+<summary>
+  Looks up a localized string similar to 刪去過濾器.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to 刪去關鍵字.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_save_file">
+<summary>
+  Looks up a localized string similar to 儲存檔案.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_select_all">
+<summary>
+  Looks up a localized string similar to 選擇所有東西.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_select_none">
+<summary>
+  Looks up a localized string similar to 取消所有選擇.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_send">
+<summary>
+  Looks up a localized string similar to 傳送！（效果音效.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_upload_email">
+<summary>
+  Looks up a localized string similar to （非必要）如果你覺得我要聯絡你的話, 你可以留下你的電郵地址（我不會給垃圾郵件的）.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to 以下的檔案全都會傳給我. 把不想給我的檔案都取消選擇吧.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_upload_intro">
+<summary>
+  Looks up a localized string similar to 如果你的過濾器（很不幸地）有問題, 例如它們不能正確地載入, 或者某些東西沒能正確的被檢測, 請用以下的表格去提交你的過濾器. 我會努力的令BEM進步的！（正能量（真的有問題才用這個，不要突然把你的過濾器給我呀） ..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_upload_message">
+<summary>
+  Looks up a localized string similar to 請花出一些時間寫一寫你的過濾器有什麼問題，這會令我們有機會令BEM進步（笑.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to 上載腳本.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_value">
+<summary>
+  Looks up a localized string similar to 數值.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.ChineseT.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to 數值應該要在雙引號（&quot;&quot;）裏面.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.English">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_backed_up">
+<summary>
+  Looks up a localized string similar to Original {0} has been backed up and new one has successfully saved..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to You have made changes to this file, please save this file first.{0}{0}If you do not want to save, click OK and load the new file again..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to Are you sure you want to delete this filter entry?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to Are you sure you want to delete this keyword entry?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to Could not locate the file &quot;&quot;{0}.txt&quot;&quot;. Make sure you are running this program from the BattlEye directory on your server..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_done">
+<summary>
+  Looks up a localized string similar to Done!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_edited">
+<summary>
+  Looks up a localized string similar to edited.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to Could not save this file. The following error occured:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to The text may contain some backslashes that may need to be escaped, did you want to fix these?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_items_imported">
+<summary>
+  Looks up a localized string similar to Selected items have been imported. Please remember to save your changes..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_latest_version">
+<summary>
+  Looks up a localized string similar to Latest Version.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_loading_error">
+<summary>
+  Looks up a localized string similar to There was an error loading this file, is it a BattlEye file?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_need_keyword">
+<summary>
+  Looks up a localized string similar to You need to enter a keyword. If you want a blank keyword, please enter.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to You need to select an Exception Type..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to You need to select a Logging Type..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to You need to open a file first..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to You need to select a filter first..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to You need to select a line first..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_need_value">
+<summary>
+  Looks up a localized string similar to You need to enter a value..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_no_files_found">
+<summary>
+  Looks up a localized string similar to No Files Found.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_no_log">
+<summary>
+  Looks up a localized string similar to You don&apos;t have a log for this file..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_not_scripts">
+<summary>
+  Looks up a localized string similar to This list works differently than scripts.{0}{0}We will add the exceptions for the ones you choose, but the keywords might as well be removed in some cases..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_not_supported">
+<summary>
+  Looks up a localized string similar to Sorry, This log file is not yet supported by BEM for importing..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to You haven&apos;t selected anything to import..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_processing">
+<summary>
+  Looks up a localized string similar to Processing.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_scanning">
+<summary>
+  Looks up a localized string similar to Scanning.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_too_long">
+<summary>
+  Looks up a localized string similar to This log file is more then 50,000 lines long. Only scanned first 50,000 lines..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to Unable to launch BEM right now. Please ensure both of the following conditions are met:{0}{0}- You are running this from your BattlEye Folder.{0}- You have run the ArmA 3 server at least once..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_update_application">
+<summary>
+  Looks up a localized string similar to Update Application.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_upload_email">
+<summary>
+  Looks up a localized string similar to The email address you have entered is not valid..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_upload_explain">
+<summary>
+  Looks up a localized string similar to To help me make BEM better, please give a brief explanation of what is not working..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to To help me make BEM better, please choose at least 1 file to upload..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to Your files have been uploaded! Thanks for submitting your scripts to help make BEM better!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to Uploading ZIP file.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_upload_zip">
+<summary>
+  Looks up a localized string similar to Creating ZIP file.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to Uploaded ZIP file!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_wait">
+<summary>
+  Looks up a localized string similar to Wait!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.s_write_protect">
+<summary>
+  Looks up a localized string similar to Could not save settings due to an error writing the file..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_about">
+<summary>
+  Looks up a localized string similar to About.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_add_filter">
+<summary>
+  Looks up a localized string similar to Add Filter.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_add_keyword">
+<summary>
+  Looks up a localized string similar to Add Keyword.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_cancel">
+<summary>
+  Looks up a localized string similar to Cancel.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to Check for Updates.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_choose">
+<summary>
+  Looks up a localized string similar to Choose.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_choose_file">
+<summary>
+  Looks up a localized string similar to Choose File:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to Currently Loaded.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_donate">
+<summary>
+  Looks up a localized string similar to Donate.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_edit_filter">
+<summary>
+  Looks up a localized string similar to Edit Filter.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to Edit Keyword.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_exception_type">
+<summary>
+  Looks up a localized string similar to Exception Type.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_idle">
+<summary>
+  Looks up a localized string similar to Idle.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_import_as">
+<summary>
+  Looks up a localized string similar to Import Checked as .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to Import from Logs.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_keyword">
+<summary>
+  Looks up a localized string similar to Keyword.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to Keywords containing double quotes must have them escaped with a backslash..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to Keywords containing spaces must be contained within double quotes..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_load_file">
+<summary>
+  Looks up a localized string similar to Load File.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_load_to_start">
+<summary>
+  Looks up a localized string similar to None. Load a file to start..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type">
+<summary>
+  Looks up a localized string similar to Logging Type.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to Log to .log file only.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to Log to console only.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to Log to both.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to Kick with no log.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to Kick and log to .log file only.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to Kick and log to console only.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to Kick and log to both.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to No File Detected.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_options">
+<summary>
+  Looks up a localized string similar to Options.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to The parameter must exactly match the exception..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to The parameter must contain the exception..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_remove_filter">
+<summary>
+  Looks up a localized string similar to Remove Filter.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to Remove Keyword.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_save_file">
+<summary>
+  Looks up a localized string similar to Save File.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_select_all">
+<summary>
+  Looks up a localized string similar to Select All.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_select_none">
+<summary>
+  Looks up a localized string similar to Select None.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_send">
+<summary>
+  Looks up a localized string similar to Send.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_upload_email">
+<summary>
+  Looks up a localized string similar to Optionally, leave me your email address if you think I need to contact you.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to The following files will be sent to me, uncheck items you do not want to send.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_upload_intro">
+<summary>
+  Looks up a localized string similar to If you are having issues with your filter files not loading correctly or some items not being correctly detected, please use the form below to submit your filters to me and I will see if I can make BEM work better for you! Please only use this if you are having issues..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_upload_message">
+<summary>
+  Looks up a localized string similar to Please write a brief message explaining what issues you are having with your filters.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to Upload Scripts.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_value">
+<summary>
+  Looks up a localized string similar to Value.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.English.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to Value should be contained within double quotes.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.Finnish">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_backed_up">
+<summary>
+  Looks up a localized string similar to Alkuperäinen {0} on varmuuskopioitu ja uusi versio tallennettu onnistuneesti..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to Olet tehnyt tähän tiedostoon muutoksia, tallenna tämä tiedosto ensin.{0}{0}Jos et tahdo tallentaa, klikkaa OK ja avaa uusi tiedosto uudelleen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to Haluatko varmasti poistaa tämän suodatinmerkinnän?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to Haluatko varmasti poistaa tämän avainsanan?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to Tiedostoa &quot;&quot;{0}.txt&quot;&quot; ei voitu paikantaa. Varmista, että olet suorittamassa tätä ohjelmaa serverisi Battleye-hakemistosta..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_done">
+<summary>
+  Looks up a localized string similar to Valmis!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_edited">
+<summary>
+  Looks up a localized string similar to muokattu.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to Tätä tiedostoa ei voitu tallentaa. Tapahtui seuraava virhe:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to Tekstissä voi olla joitain kenoviivoja jotka täytyy mahdollisesti ohittaa, haluatko korjata ne?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_items_imported">
+<summary>
+  Looks up a localized string similar to Valitut kohteet on tuotu. Muistathan tallentaa muutokset..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_latest_version">
+<summary>
+  Looks up a localized string similar to Viimeisin versio.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_loading_error">
+<summary>
+  Looks up a localized string similar to Tätä tiedostoa ladattaessa tapahtui virhe, onko kyseessä BattlEye -tiedosto?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_need_keyword">
+<summary>
+  Looks up a localized string similar to Sinun täytyy syöttää hakusana. Jos haluat tyhjän hakuasnan, syötä &quot;&quot;.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to Sinun tulee valita Poikkeustyyppi..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to Sinun tulee valita Kirjaustyyppi..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to Sinun tulee avata tiedosto ensin..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to Sinun tulee valita suodatin ensin..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to Sinun tulee valita rivi ensin..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_need_value">
+<summary>
+  Looks up a localized string similar to Sinun tulee syöttää lukuarvo..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_no_files_found">
+<summary>
+  Looks up a localized string similar to Ei löytyneitä tiedostoja.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_no_log">
+<summary>
+  Looks up a localized string similar to Sinulla ei ole lokia tälle tiedostolle.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_not_scripts">
+<summary>
+  Looks up a localized string similar to Tämä lista toimii eri tavalla kuin ohjelmakoodit.{0}{0}Me lisäämme poikkekusen valitsemillesi kohteille, mutta avainsanat voivat myös joissain tapauksissa tulla poistetuiksi..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_not_supported">
+<summary>
+  Looks up a localized string similar to Pahoittelut, BEM ei vielä tue tämän lokitiedoston tuontia..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to Et ole valinnut mitään tuotavaksi..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_processing">
+<summary>
+  Looks up a localized string similar to Käsitellään.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_scanning">
+<summary>
+  Looks up a localized string similar to Skannataan.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_too_long">
+<summary>
+  Looks up a localized string similar to Tämä lokitiedosto on yli 50,000 riviä pitkä. Skannattiin vain ensimmäiset 50,000 riviä..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to BEM ei tällä hetkellä pysty käynnistymään. Varmista, että molemmat seuraavista ehdoista on täytetty:{0}{0}- Olet suorittamassa ohjelmaa BattlEye -kansiostasi.{0}- Olet ajanut ArmA 3 -serverin ainakin kerran..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_update_application">
+<summary>
+  Looks up a localized string similar to Päivitä ohjelma.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_upload_email">
+<summary>
+  Looks up a localized string similar to Antamasi sähköpostiosoite ei kelpaa..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_upload_explain">
+<summary>
+  Looks up a localized string similar to Auttaaksesi BEM:n parantamisessa, kerro lyhyesti mikä ei toimi oikein..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to Auttaaksesi BEM:n parantamisessa, valitse vähintään 1 tiedosto lähetettäväksi..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to Tiedostosi on lähetetty! Kiitos, että jätit ohjelmakoodisi BEM:n parantamista varten!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to Lähetetään ZIP-tiedostoa.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_upload_zip">
+<summary>
+  Looks up a localized string similar to Luodaan ZIP-tiedostoa.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to ZIP-tiedosto siirretty!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_wait">
+<summary>
+  Looks up a localized string similar to Odota!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.s_write_protect">
+<summary>
+  Looks up a localized string similar to Asetuksia ei voitu tallentaa tiedoston kirjoittamisen virheestä johtuen..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_about">
+<summary>
+  Looks up a localized string similar to Tietoa.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_add_filter">
+<summary>
+  Looks up a localized string similar to Lisää suodatin.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_add_keyword">
+<summary>
+  Looks up a localized string similar to Lisää avainsana.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_cancel">
+<summary>
+  Looks up a localized string similar to Peruuta.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to Tarkista, onko päivityksiä.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_choose">
+<summary>
+  Looks up a localized string similar to Valitse.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_choose_file">
+<summary>
+  Looks up a localized string similar to Valitse Tiedosto:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to Ladattu tällä hetkellä.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_donate">
+<summary>
+  Looks up a localized string similar to Lahjoita.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_edit_filter">
+<summary>
+  Looks up a localized string similar to Muokkaa Suodatinta.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to Muokkaa Avainsanaa.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_exception_type">
+<summary>
+  Looks up a localized string similar to Poikkeuksen tyyppi.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_idle">
+<summary>
+  Looks up a localized string similar to Toimeton.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_import_as">
+<summary>
+  Looks up a localized string similar to Tuo valitut muodossa.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to Tuo lokeista.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_keyword">
+<summary>
+  Looks up a localized string similar to Avainsana.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to Kaksoisheittomerkit avainsanoissa tulee ohittaa kenoviivalla..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to Välilyöntejä sisältävät avainsanat tulee rajata kaksoisheittomerkein..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_load_file">
+<summary>
+  Looks up a localized string similar to Lataa tiedosto.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_load_to_start">
+<summary>
+  Looks up a localized string similar to Tyhjä. Lataa tiedosto aloittaaksesi..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type">
+<summary>
+  Looks up a localized string similar to Kirjaustyyppi.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to Kirjaa pelkästään .log -tiedostoon.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to Kirjaa pelkästään konsoliin.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to Kirjaa molempiin.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to Potki ilman lokia.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to Potki ja kirjaa ainoastaan .log -tiedostoon.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to Potki ja kirjaa ainoastaan konsoliin.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to Potki ja kirjaa molempiin.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to Ei tiedostoa havaittu.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_options">
+<summary>
+  Looks up a localized string similar to Asetukset.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to Muuttujan tulee täsmälleen vastata poikkeusta..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to Muuttujan tulee sisältää poikkeus..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_remove_filter">
+<summary>
+  Looks up a localized string similar to Poista suodatin.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to Poista avainsana.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_save_file">
+<summary>
+  Looks up a localized string similar to Tallenna tiedosto.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_select_all">
+<summary>
+  Looks up a localized string similar to Valitse kaikki.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_select_none">
+<summary>
+  Looks up a localized string similar to Älä valitse mitään.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_send">
+<summary>
+  Looks up a localized string similar to Lähetä.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_upload_email">
+<summary>
+  Looks up a localized string similar to Vaihtoehtoisesti, jätä minulle sinun sähköpostiosoitteesi, jos uskot että minun tarvitsee ottaa sinuun yhteyttä..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to Seuraavat tiedostot lähetetään minulle, poista valinta niiden tiedostojen kohdalta joita et halua lähetettävän.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_upload_intro">
+<summary>
+  Looks up a localized string similar to Jos kohtaat ongelmia suodatintiedostojesi latautumisen kanssa, tai jos tietyt kohteet eivät tule havaituksi oikein, käytäthän alla olevaa lomaketta lähettääksesi suodattimesi minulle, niin katson saanko BEM:n toimimaan sinulle paremmin! Käytäthän tätä lomaketta vain jos kohtaat ongelmia..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_upload_message">
+<summary>
+  Looks up a localized string similar to Kirjoita lyhyt kuvaus siitä millaisia ongelmia sinulla on suodattimiesi kanssa.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to Lähetä ohjelmakoodeja.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_value">
+<summary>
+  Looks up a localized string similar to Arvo.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Finnish.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to Arvon tulisi olla rajattu kaksoisheittomerkein.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.French">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_backed_up">
+<summary>
+  Looks up a localized string similar to Le fichier original {0} a été récupéré et un nouveau fichier a été sauvegardé avec succès..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to Vous avez apporté des modifications à ce fichier, veuillez sauvegarder avant de quitter.{0}{0}Si vous ne voulez pas sauvegarder, appuyez sur OK et chargez à nouveau le nouveau fichier..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to Voulez-vous vraiment supprimer ce filtre?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to Voulez-vous vraiment supprimer ce mot-clé?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to Impossible de trouver le fichier &quot;&quot;{0}.txt&quot;&quot;. Vérifiez que votre programme est bien exécuté depuis le directoire BattlEye sur votre serveur..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_done">
+<summary>
+  Looks up a localized string similar to Terminé!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_edited">
+<summary>
+  Looks up a localized string similar to édité.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to Le fichier n&apos;a pas pu être sauvegardé. L&apos;erreur suivante est survenue:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to Le texte pourrait contenir des antislashs qui auraient besoin d&apos;une séquence d&apos;échappement, voulez-vous les réparer?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_items_imported">
+<summary>
+  Looks up a localized string similar to Les objets sélectionnés ont été importés. N&apos;oubliez pas de sauvergarder vos modifications..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_latest_version">
+<summary>
+  Looks up a localized string similar to Dernière Version.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_loading_error">
+<summary>
+  Looks up a localized string similar to Une erreur est survenue en chargeant ce fichier, s&apos;agit-il d&apos;un fichier BattlEye?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_need_keyword">
+<summary>
+  Looks up a localized string similar to Vous devez entrer un mot-clé. Si vous ne voulez pas de mots-clés, veuillez entrer &quot;&quot;.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to Vous devez sélectionner un Type d&apos;Exception..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to Vous devez sélectionner un Type d&apos;Enregistrement..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to Vous devez d&apos;abord ouvrir un fichier..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to Vous devez d&apos;abord sélectionner un filtre..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to Vous devez d&apos;abord sélectionner une ligne..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_need_value">
+<summary>
+  Looks up a localized string similar to Vous devez entrer une valeur..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_no_files_found">
+<summary>
+  Looks up a localized string similar to Aucun fichier trouvé.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_no_log">
+<summary>
+  Looks up a localized string similar to Vous n&apos;avez pas de journal pour ce fichier..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_not_scripts">
+<summary>
+  Looks up a localized string similar to Cette liste fonctionne différemment d&apos;un script.{0}{0}Nous ajouterons les exceptions pour ceux que vous choisirez, mais les mots-clés pourraient très bien être supprimés dans certains cas..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_not_supported">
+<summary>
+  Looks up a localized string similar to Désolé, l&apos;importation de ce fichier journal n&apos;est pas supportée par BEM..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to Vous n&apos;avez pas sélectionné de fichiers à importer..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_processing">
+<summary>
+  Looks up a localized string similar to Traitement.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_scanning">
+<summary>
+  Looks up a localized string similar to Scan en cours.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_too_long">
+<summary>
+  Looks up a localized string similar to Ce fichier journal contient plus de 50,000 lignes. Seules les 50,000 premières lignes ont été scannées..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to Impossible de lancer BEM pour le moment. Veuillez vous assurer que les deux conditions suivantes sont réunies:{0}{0}- Vous exécutez ce programme depuis votre dossier BattlEye.{0}- Vous avez exécuté le serveur ArmA 3 au moins une fois..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_update_application">
+<summary>
+  Looks up a localized string similar to Mise à Jour de l&apos;Application.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_upload_email">
+<summary>
+  Looks up a localized string similar to L&apos;adresse mail que vous avez entrée n&apos;est pas valide..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_upload_explain">
+<summary>
+  Looks up a localized string similar to Pour m&apos;aider à améliorer BEM, veuillez donner une brève explication de votre problème..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to Pour m&apos;aider à améliorer BEM, veuillez choisir au moins un fichier à mettre en ligne..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to Vos fichiers ont été mis en ligne! Merci d&apos;avoir contribué à améliorer BEM en soumettant vos scripts!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to Mise en ligne du fichier ZIP.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_upload_zip">
+<summary>
+  Looks up a localized string similar to Création du fichier ZIP.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to Fichier ZIP mis en ligne!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_wait">
+<summary>
+  Looks up a localized string similar to Stop!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.s_write_protect">
+<summary>
+  Looks up a localized string similar to Impossible d&apos;enregistrer les paramètres en raison d&apos;une erreur lors de l&apos;écriture du fichier..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_about">
+<summary>
+  Looks up a localized string similar to A propos.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_add_filter">
+<summary>
+  Looks up a localized string similar to Ajouter un filtre.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_add_keyword">
+<summary>
+  Looks up a localized string similar to Ajouter un mot-clé.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_cancel">
+<summary>
+  Looks up a localized string similar to Annuler.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to Recherche de Mise à Jour.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_choose">
+<summary>
+  Looks up a localized string similar to Choisir.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_choose_file">
+<summary>
+  Looks up a localized string similar to Choisir Fichier:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to Fichiers chargés.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_donate">
+<summary>
+  Looks up a localized string similar to Faites un don.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_edit_filter">
+<summary>
+  Looks up a localized string similar to Editer le filtre.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to Editer le mot-clé.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_exception_type">
+<summary>
+  Looks up a localized string similar to Type d&apos;Exception.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_idle">
+<summary>
+  Looks up a localized string similar to Inactif.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_import_as">
+<summary>
+  Looks up a localized string similar to Importer les objets vérifiés sous.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to Importer depuis le journal.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_keyword">
+<summary>
+  Looks up a localized string similar to Mot-clé.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to Les mots-clés comportant des guillemets doivent être précédés d&apos;un antislash pour pouvoir déclencher la séquence d&apos;échappement..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to Les mots-clés comportant des espaces doivent être contenus entre des guillemets..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_load_file">
+<summary>
+  Looks up a localized string similar to Charger Fichier.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_load_to_start">
+<summary>
+  Looks up a localized string similar to Aucun. Chargez un fichier pour démarrer..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type">
+<summary>
+  Looks up a localized string similar to Type d&apos;Enregistrement.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to Consigner sur le fichier .log uniquement.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to Consigner sur la console uniquement.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to Consigner sur les deux.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to Kicker sans consigner sur le journal.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to Kicker et consigner sur le fichier .log uniquement.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to Kicker et consigner sur la console uniquement.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to Kicker et consigner sur les deux.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to Aucun fichier détecté.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_options">
+<summary>
+  Looks up a localized string similar to Options.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to Le paramètre doit correspondre précisément à l&apos;exception..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to Le paramètre doit contenir l&apos;exception..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_remove_filter">
+<summary>
+  Looks up a localized string similar to Supprimer le filtre.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to Supprimer le mot-clé.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_save_file">
+<summary>
+  Looks up a localized string similar to Sauvegarder le fichier.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_select_all">
+<summary>
+  Looks up a localized string similar to Tout sélectionner.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_select_none">
+<summary>
+  Looks up a localized string similar to Tout désélectionner.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_send">
+<summary>
+  Looks up a localized string similar to Envoyer.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_upload_email">
+<summary>
+  Looks up a localized string similar to Si vous le désirez, laissez-moi votre adresse mail si vous pensez que j&apos;ai besoin de vous contacter.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to Les fichiers suivants vont m&apos;être transmis, veuillez décocher les objets que vous ne voulez pas envoyer.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_upload_intro">
+<summary>
+  Looks up a localized string similar to Si vous rencontrez des problèmes avec des fichiers filtre qui ne chargent pas correctement ou avec des objets qui ne sont pas correctement détectés, veuillez utiliser le formulaire ci-dessous pour me soumettre vos filtres et j&apos;essaierai de voir si je peux faire en sorte que BEM fonctionne mieux pour vous! Veuillez n&apos;utiliser ce formulaire que si vous rencontrez des problèmes..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_upload_message">
+<summary>
+  Looks up a localized string similar to Veuillez écrire un bref message expliquant les problèmes que vous rencontrez avec vos filtres.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to Mettre en ligne des scripts.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_value">
+<summary>
+  Looks up a localized string similar to Valeur.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.French.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to Les valeurs doivent être contenues entre guillemets.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.Korean">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_backed_up">
+<summary>
+  Looks up a localized string similar to 원본 {0} 와/과 새 파일이 성공적으로 저장되었습니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to 파일에 변경 사항이 있사오니 이 파일을 먼저 저장해 주십시오.{0}{0}저장을 원하지 않으신다면 OK를 누르고 다시 새 파일을 로드해 주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to 정말 이 필터 기록을 지우시겠습니까?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to 정말 이 키워드 기록을 지우시겠습니까?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to 파일을 찾지 못하였습니다 &quot;&quot;{0}.txt&quot;&quot;. 이 프로그램이 귀하의 서버의 BattlEye 디렉터리에서 실행되고 있는지 확인해 주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_done">
+<summary>
+  Looks up a localized string similar to 완료!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_edited">
+<summary>
+  Looks up a localized string similar to 변경됨.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to 다음 오류 때문에 파일을 저장하지 못했습니다.:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to 텍스트에 지워야 할 역슬레쉬가 있을수 있습니다, 이것들을 고치시겠습니까?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_items_imported">
+<summary>
+  Looks up a localized string similar to 선택하신 아이템들을 불러왔습니다. 변경 사항을 저장해 주세요..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_latest_version">
+<summary>
+  Looks up a localized string similar to 최신 버전.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_loading_error">
+<summary>
+  Looks up a localized string similar to 파일을 로드하던 중 오류가 발생했습니다, BattlEye 파일입니까?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_need_keyword">
+<summary>
+  Looks up a localized string similar to 키워드를 입력하셔야 됩니다. 공 키워드를 원하신다면 다음을 입력해 주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to 예외 타입을 선택하셔야 합니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to 로깅 타입을 선택하셔야 합니다...
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to 우선 파일을 열어주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to 우선 필터를 선택하셔야 합니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to 우선 라인을 선택하셔야 합니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_need_value">
+<summary>
+  Looks up a localized string similar to 값을 입력해 주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_no_files_found">
+<summary>
+  Looks up a localized string similar to 발견된 파일 없음..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_no_log">
+<summary>
+  Looks up a localized string similar to 이 파일에 대한 로그가 없습니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_not_scripts">
+<summary>
+  Looks up a localized string similar to 이 목록은 스크립트와 다르게 작동합니다.{0}{0}선택하신 것들에 대한 예외는 추가되지만, 어떤 경우에는 키워드가 제외될 수도 있습니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_not_supported">
+<summary>
+  Looks up a localized string similar to 죄송합니다. 이 log 파일은 아직 BEM으로 불러올 수 없습니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to 불러올 것을 선택해 주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_processing">
+<summary>
+  Looks up a localized string similar to 처리 중.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_scanning">
+<summary>
+  Looks up a localized string similar to 검색 중.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_too_long">
+<summary>
+  Looks up a localized string similar to 이 log 파일은 50,000줄 이상입니다. 첫 50,000줄 만이 검색되었습니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to 지금 BEM을 실행할 수 없습니다. 다음 조건이 갖춰 졌는지 확인해 주십시오:{0}{0}- BattlEye 폴더에서 실행 중 입니다.{0}- 적어도 한 번은 ArmA 3 서버를 실행하셔야 합니다,..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_update_application">
+<summary>
+  Looks up a localized string similar to 어플리케이션 업데이트.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_upload_email">
+<summary>
+  Looks up a localized string similar to 입력하신 이메일 주소는 사용하실 수 없습니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_upload_explain">
+<summary>
+  Looks up a localized string similar to BEM을 개선하기 위해 문제점을 간단하게 설명해 주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to BEM을 개선하기 위해 업로드하실 파일을 최소 1개 선택해 주십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to 파일이 업로드 되었습니다! 스크립트를 올려주신 점 정말 감사드립니다!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to ZIP 파일 업로드 중.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_upload_zip">
+<summary>
+  Looks up a localized string similar to ZIP 파일 생성 중.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to ZIP 파일 업로드됨!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_wait">
+<summary>
+  Looks up a localized string similar to 기다려 주십시오!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.s_write_protect">
+<summary>
+  Looks up a localized string similar to 파일을 쓰는 중 오류로 인해 설정을 저장할 수 없습니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_about">
+<summary>
+  Looks up a localized string similar to 개요.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_add_filter">
+<summary>
+  Looks up a localized string similar to 필터 추가.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_add_keyword">
+<summary>
+  Looks up a localized string similar to 키워드 추가.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_cancel">
+<summary>
+  Looks up a localized string similar to 취소.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to 업데이트 확인.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_choose">
+<summary>
+  Looks up a localized string similar to 선택.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_choose_file">
+<summary>
+  Looks up a localized string similar to 파일 선택:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to 현재 로드됨.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_donate">
+<summary>
+  Looks up a localized string similar to 기부.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_edit_filter">
+<summary>
+  Looks up a localized string similar to 필터 변경.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to 키워드 변경.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_exception_type">
+<summary>
+  Looks up a localized string similar to 예외 타입.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_idle">
+<summary>
+  Looks up a localized string similar to 유휴.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_import_as">
+<summary>
+  Looks up a localized string similar to 체크된 것 불러오기 .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to 로그에서 불러오기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_keyword">
+<summary>
+  Looks up a localized string similar to 키워드.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to 큰따옴표가 있는 키워드는 역슬레쉬로 교체되어야 함..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to 띄어쓰기된 키워드는 큰따옴표 안에 들어가야 함..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_load_file">
+<summary>
+  Looks up a localized string similar to 파일 불러오기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_load_to_start">
+<summary>
+  Looks up a localized string similar to 없음. 시작하려면 파일을 불러오십시오..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type">
+<summary>
+  Looks up a localized string similar to 로깅 타입.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to .log 파일로만 로그하기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to 콘솔로만 로그하기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to 둘다 로그하기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to 로그없이 퇴출.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to 퇴출하고 .log 파일로만 로그하기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to 퇴출하고 콘솔로만 로그하기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to 퇴출하고 둘다 로그하기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to 발견된 파일 없음.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_options">
+<summary>
+  Looks up a localized string similar to 설정.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to 범위가 예외와 정확히 일치해야 합니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to 범위는 예외를 포함해야 합니다..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_remove_filter">
+<summary>
+  Looks up a localized string similar to 필터 제거.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to 키워드 제거.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_save_file">
+<summary>
+  Looks up a localized string similar to 파일 저장.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_select_all">
+<summary>
+  Looks up a localized string similar to 전부 선택.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_select_none">
+<summary>
+  Looks up a localized string similar to 전부 선택 취소.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_send">
+<summary>
+  Looks up a localized string similar to 보내기.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_upload_email">
+<summary>
+  Looks up a localized string similar to 연락하시려면 이메일 주소를 남겨주세요..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to 다음 파일들은 제에게 보내집니다. 보내고 싶지 않은 파일은 취소해 주세요..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_upload_intro">
+<summary>
+  Looks up a localized string similar to 필터 파일이 제대로 로드되지 않거나 감지되지 않는 문제를 경험하신다면, 아래 서식으로 필터를 보내주세요. 그러면 제가 BEM이 잘 작동하도록 도와드리겠습니다. 이것은 문제가 있을 시에만 이용해 주세요..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_upload_message">
+<summary>
+  Looks up a localized string similar to 필터에 문제가 있으시다면 간단한 메세지를 남겨 주세요..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to 스크립트 업로드.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_value">
+<summary>
+  Looks up a localized string similar to 값.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Korean.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to 값은 큰따옴포 안에 있어야함.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.Russian">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_backed_up">
+<summary>
+  Looks up a localized string similar to Оригинал {0} был заменён на резервную копию и новый файл был успешно сохранён..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to Вы изменили этот файл, пожалуйста сначала сохраните этот файл.{0}{0}Если вы не хотите сохранять, нажмите OK и загрузите новый файл снова..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to Вы уверены, что вы хотите удалить этот фильтр?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to Вы уверены, что вы хотите удалить это ключевое слово?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to Невозможно обнаружить файл &quot;&quot;{0}.txt&quot;&quot;. Убедитесь что вы запускаете программу из директории BattlEye на вашем сервере..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_done">
+<summary>
+  Looks up a localized string similar to Выполнено!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_edited">
+<summary>
+  Looks up a localized string similar to Изменено..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to Невозможно сохранить этот файл. Произошла ошибка:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to Текст может содержать обратные слэши которые должны быть пропущены, хотите ли вы исправить это?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_items_imported">
+<summary>
+  Looks up a localized string similar to Выбранные предметы были импортированы. Пожалуйста не забудьте сохранить изменения..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_latest_version">
+<summary>
+  Looks up a localized string similar to Последняя версия.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_loading_error">
+<summary>
+  Looks up a localized string similar to Произошла ошибка при загрузке этого файла, был ли это файл BattlEye?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_need_keyword">
+<summary>
+  Looks up a localized string similar to Вам нужно ввести ключевое слово. Если вы хотите пустое ключевое слово введите пустые кавычки (&quot;&quot;)..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to Вам нужно выбрать тип исключения..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to Вам нужно выбрать тип логов..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to Сначала нужно открыть файл..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to Сначала нужно выбрать фильтр..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to Сначала нужно выбрать строку..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_need_value">
+<summary>
+  Looks up a localized string similar to Нужно ввести значение..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_no_files_found">
+<summary>
+  Looks up a localized string similar to Файлов не найдено.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_no_log">
+<summary>
+  Looks up a localized string similar to У вас нет логов этого файла..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_not_scripts">
+<summary>
+  Looks up a localized string similar to Этот список работает не как скрипты.{0}{0}Мы добавим исключения для выбранных,но в некоторых случаях ключевые слова могут быть удалены ..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_not_supported">
+<summary>
+  Looks up a localized string similar to Извините, пока что, BEM не поддерживает импорт этого файла логов..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to Вы не выбрали ничего для импортирования..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_processing">
+<summary>
+  Looks up a localized string similar to Выполняется.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_scanning">
+<summary>
+  Looks up a localized string similar to Сканируется.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_too_long">
+<summary>
+  Looks up a localized string similar to Этот файл лога длиннее 50,000 строк. Просканированы могут быть только первые 50,000 строк..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to Невозможно запустить BEM прямо сейчас. Пожалуйста убедитесь что оба условия соблюдены:{0}{0}- Вы запускаете это из папки с BattlEye.{0}- Вы запускали сервер ArmA 3 хотя бы раз..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_update_application">
+<summary>
+  Looks up a localized string similar to Обновить приложение.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_upload_email">
+<summary>
+  Looks up a localized string similar to Email который вы ввели недействителен..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_upload_explain">
+<summary>
+  Looks up a localized string similar to Чтобы помочь мне сделать BEM лучше, пожалуйста,опишите что работает не правильно..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to Чтобы помочь мне сделать BEM лучше, пожалуйста, выберите хотя бы 1 файл для загрузки..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to Ваши файлы были загружены! Спасибо за предоставления ваших скриптов для помощи в улучшении BEM!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to Загрузка ZIP файла.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_upload_zip">
+<summary>
+  Looks up a localized string similar to Создание ZIP файла.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to Загружен ZIP файл!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_wait">
+<summary>
+  Looks up a localized string similar to Подождите!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.s_write_protect">
+<summary>
+  Looks up a localized string similar to Невозможно сохранить настройки в связи ошибкой записи файла..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_about">
+<summary>
+  Looks up a localized string similar to О приложении.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_add_filter">
+<summary>
+  Looks up a localized string similar to Добавить фильтр.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_add_keyword">
+<summary>
+  Looks up a localized string similar to Добавить ключевое слово.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_cancel">
+<summary>
+  Looks up a localized string similar to Отменить.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to Проверить обновления.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_choose">
+<summary>
+  Looks up a localized string similar to Выбрать.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_choose_file">
+<summary>
+  Looks up a localized string similar to Выбрать файл:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to Загружено в данный момент.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_donate">
+<summary>
+  Looks up a localized string similar to Пожертвования.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_edit_filter">
+<summary>
+  Looks up a localized string similar to Изменить фильтр.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to Изменить ключевое слово.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_exception_type">
+<summary>
+  Looks up a localized string similar to Тип исключения.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_idle">
+<summary>
+  Looks up a localized string similar to Бездействует.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_import_as">
+<summary>
+  Looks up a localized string similar to Импортировать выделенное как .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to Импорт из логов.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_keyword">
+<summary>
+  Looks up a localized string similar to Ключевое слово.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to В ключевых словах, содержащих кавычки,  кавычки должны быть отделены обратными слэшами..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to Ключевые слова, содержащие пробелы, должны быть выделены кавычками..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_load_file">
+<summary>
+  Looks up a localized string similar to Загрузить файл.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_load_to_start">
+<summary>
+  Looks up a localized string similar to Ничего не загружено. Загрузите файл чтобы начать..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type">
+<summary>
+  Looks up a localized string similar to Тип логов.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to Отправить логи в только в файл .log .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to Отправить логи только в консоль.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to Отправить логи в файл .log и консоль.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to Изгнать без лога.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to Изгнать и отправить логи только в .log.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to Изгнать и отправить логи только в консоли.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to Изгнать и отправить в консоль и файл .log.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to Файлов не обнаружено.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_options">
+<summary>
+  Looks up a localized string similar to Настройки.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to Параметр должен соответствовать исключению..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to Параметр должен содержать исключение..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_remove_filter">
+<summary>
+  Looks up a localized string similar to Убрать фильтр.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to Убрать ключевое слово.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_save_file">
+<summary>
+  Looks up a localized string similar to Сохранить файл.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_select_all">
+<summary>
+  Looks up a localized string similar to Выбрать всё.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_select_none">
+<summary>
+  Looks up a localized string similar to Сбросить выбор.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_send">
+<summary>
+  Looks up a localized string similar to Отправить.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_upload_email">
+<summary>
+  Looks up a localized string similar to Выборочно, оставьте мне свой email если вы думаете что я должен связаться с вами.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to Выделенные файлы будут отправлены мне, снимите выделение с файлов которые вы не хотите отправлять.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_upload_intro">
+<summary>
+  Looks up a localized string similar to Если у вас проблемы с загрузкой или обнаружением файлов фильтра, пожалуйста, используйте форму ниже для отправки ващих фильтров мне, и я посмотрю, смогу ли я улучшить работу BEM для вас! Пожалуйста, используйте это только если у вас есть вопросы..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_upload_message">
+<summary>
+  Looks up a localized string similar to Пожалуйста опишите какие проблемы вы имеете с вашими фильтрами.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to Загрузить скрипты.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_value">
+<summary>
+  Looks up a localized string similar to Значение.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Russian.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to Значение должно быть введено в кавычках.
+</summary>
+</member>
+<member name="T:BEM.My.Resources.Spanish">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_backed_up">
+<summary>
+  Looks up a localized string similar to Se ha guardado una copia del original {0} y se ha guardado el nuevo en su lugar..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_changes_to_file">
+<summary>
+  Looks up a localized string similar to Has modificado este archivo; deberías guardarlo antes.{0}{0}Si no quieres guardarlo, pulsa OK y abre el nuevo archivo otra vez..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_confirm_delete_filter">
+<summary>
+  Looks up a localized string similar to ¿Seguro que quieres eliminar este filtro?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_confirm_delete_keyword">
+<summary>
+  Looks up a localized string similar to ¿Seguro que quieres eliminar esta palabra clave?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_could_not_open_file">
+<summary>
+  Looks up a localized string similar to No se ha podido encontrar el archivo «{0}.txt». Asegúrate de estar ejecutando este programa desde el directorio BattlEye de tu servidor..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_done">
+<summary>
+  Looks up a localized string similar to ¡Hecho!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_edited">
+<summary>
+  Looks up a localized string similar to modificado.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_failed_backed_up">
+<summary>
+  Looks up a localized string similar to No se ha podido guardar este archivo porque ha ocurrido el siguiente error:{0}{0}{1}.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_fix_backslash">
+<summary>
+  Looks up a localized string similar to El texto contiene barras invertidas que quizá haya que «escapar». ¿Deseas hacerlo?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_items_imported">
+<summary>
+  Looks up a localized string similar to Se han importado los elementos seleccionados. No te olvides de guardar los cambios que hagas..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_latest_version">
+<summary>
+  Looks up a localized string similar to Última versión.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_loading_error">
+<summary>
+  Looks up a localized string similar to Se ha producido un error mientras se cargaba este archivo. ¿Seguro que es un archivo BattlEye?.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_need_keyword">
+<summary>
+  Looks up a localized string similar to Tienes que introducir una palabra clave. Si quieres usar un espacio como palabra clave, pulsa Enter.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_need_to_exception_type">
+<summary>
+  Looks up a localized string similar to Tienes que seleccionar un Tipo de Excepción..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_need_to_logging_type">
+<summary>
+  Looks up a localized string similar to Tienes que seleccionar un Tipo de Registro..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_need_to_open_file">
+<summary>
+  Looks up a localized string similar to Tienes que abrir un archivo antes..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_need_to_select_filter">
+<summary>
+  Looks up a localized string similar to Tienes que seleccionar un filtro antes..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_need_to_select_line">
+<summary>
+  Looks up a localized string similar to Tienes que seleccionar una línea antes..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_need_value">
+<summary>
+  Looks up a localized string similar to Tienes que introducir un valor..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_no_files_found">
+<summary>
+  Looks up a localized string similar to No se han encontrado archivos.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_no_log">
+<summary>
+  Looks up a localized string similar to No tienes un registro para este archivo..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_not_scripts">
+<summary>
+  Looks up a localized string similar to Esta lista no funciona igual que los scripts.{0}{0}Añadiremos las excepciones para los que elijas, pero las palabras claves se podrían eliminar en algunos casos..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_not_supported">
+<summary>
+  Looks up a localized string similar to Lo sentimos, pero importar este archivo de registro BEM aún no está soportado..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_nothing_to_import">
+<summary>
+  Looks up a localized string similar to No has seleccionado nada que importar..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_processing">
+<summary>
+  Looks up a localized string similar to Procesamiento.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_scanning">
+<summary>
+  Looks up a localized string similar to Análisis.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_too_long">
+<summary>
+  Looks up a localized string similar to Este registro tiene más de 50000 líneas. Solo se han analizado las primeras 50000 líneas..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_unable_to_launch">
+<summary>
+  Looks up a localized string similar to No se ha podido lanzar BEM ahora mismo. Asegúrate de que se cumplen estas dos condiciones:{0}{0}- Estás ejecutando este programa desde tu carpeta BattleEye.{0}- Has ejecutado el servidor ArmA 3 al menos una vez..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_update_application">
+<summary>
+  Looks up a localized string similar to Actualizar la aplicación.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_upload_email">
+<summary>
+  Looks up a localized string similar to La dirección de correo que has introducido no es válida..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_upload_explain">
+<summary>
+  Looks up a localized string similar to Para ayudarme a mejorar BEM, explícame brevemente (en inglés) qué es lo que no funciona..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_upload_one_file">
+<summary>
+  Looks up a localized string similar to Para ayudarme a mejorar BEM, sube al menos un archivo..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_upload_thanks">
+<summary>
+  Looks up a localized string similar to ¡Se han subido tus archivos! Gracias por ayudarme a mejorar BEM enviándome tus scripts..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_upload_upload_zip">
+<summary>
+  Looks up a localized string similar to Cómo subir un archivo ZIP.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_upload_zip">
+<summary>
+  Looks up a localized string similar to Cómo crear un archivo ZIP.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_uploaded_zip">
+<summary>
+  Looks up a localized string similar to ¡Se ha actualizado el archivo ZIP!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_wait">
+<summary>
+  Looks up a localized string similar to ¡Espera!.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.s_write_protect">
+<summary>
+  Looks up a localized string similar to No se pudo guardar la configuración debido a un error al escribir el archivo..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_about">
+<summary>
+  Looks up a localized string similar to Sobre.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_add_filter">
+<summary>
+  Looks up a localized string similar to Añadir un filtro.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_add_keyword">
+<summary>
+  Looks up a localized string similar to Añadir una palabra clave.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_cancel">
+<summary>
+  Looks up a localized string similar to Cancelar.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_check_for_updates">
+<summary>
+  Looks up a localized string similar to Buscar actualizaciones.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_choose">
+<summary>
+  Looks up a localized string similar to Elegir.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_choose_file">
+<summary>
+  Looks up a localized string similar to Elige un archivo:.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_currently_loaded">
+<summary>
+  Looks up a localized string similar to Cargado.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_donate">
+<summary>
+  Looks up a localized string similar to Donar.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_edit_filter">
+<summary>
+  Looks up a localized string similar to Modificar filtro.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_edit_keyword">
+<summary>
+  Looks up a localized string similar to Modificar palabra clave.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_exception_type">
+<summary>
+  Looks up a localized string similar to Tipo de Excepción.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_idle">
+<summary>
+  Looks up a localized string similar to Inactivo.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_import_as">
+<summary>
+  Looks up a localized string similar to Importar los marcados como .
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_import_from_logs">
+<summary>
+  Looks up a localized string similar to Importar desde un registro.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_keyword">
+<summary>
+  Looks up a localized string similar to Palabra clave.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_keyword_backslash">
+<summary>
+  Looks up a localized string similar to Cada comilla doble dentro de una palabra clave debe ir precedida de una barra invertida..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_keyword_double_quotes">
+<summary>
+  Looks up a localized string similar to Las palabras claves que contengan espacios deben estar escritas entre comillas dobles..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_load_file">
+<summary>
+  Looks up a localized string similar to Cargar un archivo.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_load_to_start">
+<summary>
+  Looks up a localized string similar to Ninguno. Carga un archivo para empezar..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type">
+<summary>
+  Looks up a localized string similar to Tipo de registro.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type_1">
+<summary>
+  Looks up a localized string similar to Escribir el registro en el archivo .log.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type_2">
+<summary>
+  Looks up a localized string similar to Escribir el registro en la consola.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type_3">
+<summary>
+  Looks up a localized string similar to Escribir el registro en ambos.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type_4">
+<summary>
+  Looks up a localized string similar to Expulsar sin escribir el registro.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type_5">
+<summary>
+  Looks up a localized string similar to Expulsar y escribir el registro en el archivo .log.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type_6">
+<summary>
+  Looks up a localized string similar to Expulsar y escribir el registro en la consola.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_logging_type_7">
+<summary>
+  Looks up a localized string similar to sss.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_no_file_selected">
+<summary>
+  Looks up a localized string similar to No se ha detectado ningún archivo.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_options">
+<summary>
+  Looks up a localized string similar to Opciones.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_parameter_match_1">
+<summary>
+  Looks up a localized string similar to El parámetro debe coincidir con la excepción..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_parameter_match_2">
+<summary>
+  Looks up a localized string similar to El parámetro debe contener la excepción..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_remove_filter">
+<summary>
+  Looks up a localized string similar to Eliminar filtro.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_remove_keyword">
+<summary>
+  Looks up a localized string similar to Eliminar palabra clave.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_save_file">
+<summary>
+  Looks up a localized string similar to Guardar archivo.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_select_all">
+<summary>
+  Looks up a localized string similar to Seleccionar todos.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_select_none">
+<summary>
+  Looks up a localized string similar to No seleccionar ninguno.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_send">
+<summary>
+  Looks up a localized string similar to Enviar.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_upload_email">
+<summary>
+  Looks up a localized string similar to También puedes dejarme tu dirección de email si crees que debería ponerme en contacto contigo.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_upload_filelist">
+<summary>
+  Looks up a localized string similar to Se me enviarán los siguientes archivos, salvo aquellos que desmarques.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_upload_intro">
+<summary>
+  Looks up a localized string similar to Si estás teniendo problemas porque tus filtros no cargan correctamente o algunos elementos no se están detectando correctamente, envíame tus filtros usando el siguiente formulario y veré qué puedo hacer para que BEM funcione mejor para ti. Por favor, usa esto solo si estás teniendo problemas..
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_upload_message">
+<summary>
+  Looks up a localized string similar to Escribe un mensaje breve en inglés explicando qué problemas estás teniendo con tus filtros.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_upload_scripts">
+<summary>
+  Looks up a localized string similar to Subir scripts.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_value">
+<summary>
+  Looks up a localized string similar to Valor.
+</summary>
+</member>
+<member name="P:BEM.My.Resources.Spanish.t_value_double_quotes">
+<summary>
+  Looks up a localized string similar to El valor debería estar escrito entre comillas dobles.
+</summary>
+</member>
+</members>
+</doc>

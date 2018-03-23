@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="s_backed_up" xml:space="preserve">
+    <value>Originale {0} wurde gesichert und das neue wurde erfolgreich gespeichert</value>
+  </data>
+  <data name="s_changes_to_file" xml:space="preserve">
+    <value>Sie haben diese Datei verändert, bitte speichern sie diese Datei erst.{0}{0}Falls sie nicht speichern wollen, klicken sie auf OK und laden sie die nochmal.</value>
+  </data>
+  <data name="s_confirm_delete_filter" xml:space="preserve">
+    <value>Sind sie sicher, dass sie diesen Filtereintrag löschen wollen?</value>
+  </data>
+  <data name="s_confirm_delete_keyword" xml:space="preserve">
+    <value>Sind sie sicher, dass sie diesen Keywordeintrag löschen wollen?</value>
+  </data>
+  <data name="s_could_not_open_file" xml:space="preserve">
+    <value>Konnte die Datei ""{0}.txt"" nicht finden. Stellen sie sicher, dass sie dieses Programm auf dem BattlEye Verzeichnis laufen lassen.</value>
+  </data>
+  <data name="s_done" xml:space="preserve">
+    <value>Erledigt!</value>
+  </data>
+  <data name="s_edited" xml:space="preserve">
+    <value>Geändert</value>
+  </data>
+  <data name="s_failed_backed_up" xml:space="preserve">
+    <value>Datei konnte nicht gespeichert werden. Folgender Fehler ist aufgetreten:{0}{0}{1}</value>
+  </data>
+  <data name="s_fix_backslash" xml:space="preserve">
+    <value>Der Text beinhaltet vielleicht Backslashs, die eventuell entflohen werden müssen, wollen sie dies beheben?</value>
+  </data>
+  <data name="s_items_imported" xml:space="preserve">
+    <value>Ausgewählte Items wurden importiert. Bitte denken sie daran ihre Änderungen zu speichern.</value>
+  </data>
+  <data name="s_latest_version" xml:space="preserve">
+    <value>Letzte Version</value>
+  </data>
+  <data name="s_loading_error" xml:space="preserve">
+    <value>Es gab einen Fehler beim laden dieser Datei, ist es eine BattlEye Datei?</value>
+  </data>
+  <data name="s_need_keyword" xml:space="preserve">
+    <value>Sie müssen ein Keyword eingeben. Falls sie ein leeres Keyword wollen, bitte eintragen</value>
+  </data>
+  <data name="s_need_to_exception_type" xml:space="preserve">
+    <value>Sie müssen einen Ausnahmetyp auswählen.</value>
+  </data>
+  <data name="s_need_to_logging_type" xml:space="preserve">
+    <value>Sie müssen einen Logging Type auswählen.</value>
+  </data>
+  <data name="s_need_to_open_file" xml:space="preserve">
+    <value>Sie müssen zuerst eine Datei öffnen.</value>
+  </data>
+  <data name="s_need_to_select_filter" xml:space="preserve">
+    <value>Sie müssen zuerst einen Filter auswählen.</value>
+  </data>
+  <data name="s_need_to_select_line" xml:space="preserve">
+    <value>Sie müssen zuerst eine Linie auswählen.</value>
+  </data>
+  <data name="s_need_value" xml:space="preserve">
+    <value>Sie müssen einen wert eingeben.</value>
+  </data>
+  <data name="s_nothing_to_import" xml:space="preserve">
+    <value>Sie haben nichts zum importieren ausgewählt.</value>
+  </data>
+  <data name="s_not_scripts" xml:space="preserve">
+    <value>Diese Liste funktioniert nicht wie Scripte.{0}{0}Wir werden die Ausnahmen, die sie entscheiden hinzufügen, aber die Keywords werden eventuell in ein paar Fällen entfernt.</value>
+  </data>
+  <data name="s_not_supported" xml:space="preserve">
+    <value>Es tut mir leid, diese .log Datei wird noch nicht von BEM fürs importieren unterstützt.</value>
+  </data>
+  <data name="s_no_files_found" xml:space="preserve">
+    <value>Keine Dateien gefunden</value>
+  </data>
+  <data name="s_no_log" xml:space="preserve">
+    <value>Sie haben keine .log Datei für diese Datei.</value>
+  </data>
+  <data name="s_processing" xml:space="preserve">
+    <value>Verarbeitung</value>
+  </data>
+  <data name="s_scanning" xml:space="preserve">
+    <value>Scannen</value>
+  </data>
+  <data name="s_too_long" xml:space="preserve">
+    <value>Diese .log Datei ist über 50,000 Zeilen lang. Es wurden nur die ersten 50,000 gescannt.</value>
+  </data>
+  <data name="s_unable_to_launch" xml:space="preserve">
+    <value>Kann BEM im Moment nicht starten. Bitte versichern sie sich dass beide der folgenden Bedingungen erfüllt sind:{0}{0}- Sie lassen dies von ihrem BattlEye Ordner laufen.{0}- Sie haben den ArmA 3 Server mindestens einmal laufen lassen.</value>
+  </data>
+  <data name="s_update_application" xml:space="preserve">
+    <value>Update Anwendung</value>
+  </data>
+  <data name="s_uploaded_zip" xml:space="preserve">
+    <value>ZIP Datei hochladen!</value>
+  </data>
+  <data name="s_upload_email" xml:space="preserve">
+    <value>Die E-Mail Adresse die sie eingetragen haben ist ungültig.</value>
+  </data>
+  <data name="s_upload_explain" xml:space="preserve">
+    <value>Um mir zu helfen BEM zu verbessern, geben Sie bitte eine kurze Erklärung was nicht funktioniert.</value>
+  </data>
+  <data name="s_upload_one_file" xml:space="preserve">
+    <value>Um mir zu helfen BEM zu verbessern, bitte wählen sie mindestens eine Datei zum hochladen.</value>
+  </data>
+  <data name="s_upload_thanks" xml:space="preserve">
+    <value>Ihre Dateien wurden hochladen! Danke für die Einreichung ihrer Scripte um zu helfen BEM besser zu machen!</value>
+  </data>
+  <data name="s_upload_upload_zip" xml:space="preserve">
+    <value>Lade ZIP Datei hoch</value>
+  </data>
+  <data name="s_upload_zip" xml:space="preserve">
+    <value>Erstelle ZIP Datei</value>
+  </data>
+  <data name="s_wait" xml:space="preserve">
+    <value>Warte!</value>
+  </data>
+  <data name="t_about" xml:space="preserve">
+    <value>Über</value>
+  </data>
+  <data name="t_add_filter" xml:space="preserve">
+    <value>Filter hinzufügen</value>
+  </data>
+  <data name="t_add_keyword" xml:space="preserve">
+    <value>Keyword hinzufügen</value>
+  </data>
+  <data name="t_cancel" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="t_check_for_updates" xml:space="preserve">
+    <value>Nach Updates suchen</value>
+  </data>
+  <data name="t_choose" xml:space="preserve">
+    <value>Wähle aus</value>
+  </data>
+  <data name="t_choose_file" xml:space="preserve">
+    <value>Datei auswählen:</value>
+  </data>
+  <data name="t_currently_loaded" xml:space="preserve">
+    <value>Derzeit geladen</value>
+  </data>
+  <data name="t_donate" xml:space="preserve">
+    <value>Spenden</value>
+  </data>
+  <data name="t_edit_filter" xml:space="preserve">
+    <value>Filter bearbeiten</value>
+  </data>
+  <data name="t_edit_keyword" xml:space="preserve">
+    <value>Keyword bearbeiten</value>
+  </data>
+  <data name="t_exception_type" xml:space="preserve">
+    <value>Ausnahmetyp</value>
+  </data>
+  <data name="t_idle" xml:space="preserve">
+    <value>Untätig</value>
+  </data>
+  <data name="t_import_as" xml:space="preserve">
+    <value>Importiere Angekreuzte als </value>
+  </data>
+  <data name="t_import_from_logs" xml:space="preserve">
+    <value>Importiere von Logs</value>
+  </data>
+  <data name="t_keyword" xml:space="preserve">
+    <value>Keyword</value>
+  </data>
+  <data name="t_keyword_backslash" xml:space="preserve">
+    <value>Keywords die doppelte Anführungszeichen beinhalten müssen diese mit einem Backslash entfliehen.</value>
+  </data>
+  <data name="t_keyword_double_quotes" xml:space="preserve">
+    <value>Keywords die Leerzeichen enthalten müssen in doppelte Anführungszeichen gesetzt werden.</value>
+  </data>
+  <data name="t_load_file" xml:space="preserve">
+    <value>Datei laden</value>
+  </data>
+  <data name="t_load_to_start" xml:space="preserve">
+    <value>Nichts ist geladen. Lade eine Datei um zu Starten.</value>
+  </data>
+  <data name="t_logging_type" xml:space="preserve">
+    <value>Protokollierungstyp</value>
+  </data>
+  <data name="t_logging_type_1" xml:space="preserve">
+    <value>Eintrag in die .log Datei</value>
+  </data>
+  <data name="t_logging_type_2" xml:space="preserve">
+    <value>Eintrag in die Konsole</value>
+  </data>
+  <data name="t_logging_type_3" xml:space="preserve">
+    <value>Eintrag in beide</value>
+  </data>
+  <data name="t_logging_type_4" xml:space="preserve">
+    <value>Kick ohne Eintrag</value>
+  </data>
+  <data name="t_logging_type_5" xml:space="preserve">
+    <value>Kick und Eintrag in die .log Datei</value>
+  </data>
+  <data name="t_logging_type_6" xml:space="preserve">
+    <value>Kick und Eintrag in die Konsole</value>
+  </data>
+  <data name="t_logging_type_7" xml:space="preserve">
+    <value>Kick und Eintrag in beide</value>
+  </data>
+  <data name="t_no_file_selected" xml:space="preserve">
+    <value>Keine Datei Erkannt</value>
+  </data>
+  <data name="t_options" xml:space="preserve">
+    <value>Optionen</value>
+  </data>
+  <data name="t_parameter_match_1" xml:space="preserve">
+    <value>Der Parameter muss genau mit der Ausnahme übereinstimmen.</value>
+  </data>
+  <data name="t_parameter_match_2" xml:space="preserve">
+    <value>Der Parameter muss die Ausnahme enthalten.</value>
+  </data>
+  <data name="t_remove_filter" xml:space="preserve">
+    <value>Filter entfernen</value>
+  </data>
+  <data name="t_remove_keyword" xml:space="preserve">
+    <value>Keyword entfernen</value>
+  </data>
+  <data name="t_save_file" xml:space="preserve">
+    <value>Datei speichern</value>
+  </data>
+  <data name="t_select_all" xml:space="preserve">
+    <value>Alle auswählen</value>
+  </data>
+  <data name="t_select_none" xml:space="preserve">
+    <value>Nichts auswählen</value>
+  </data>
+  <data name="t_send" xml:space="preserve">
+    <value>Senden</value>
+  </data>
+  <data name="t_upload_email" xml:space="preserve">
+    <value>Optional können sie mir auch ihre E-Mail Adresse hinterlassen, falls sie denken das ich sie kontaktieren muss</value>
+  </data>
+  <data name="t_upload_filelist" xml:space="preserve">
+    <value>Die folgenden Dateien werden zu mir gesendet, deaktivieren sie die Items, die sie nicht senden wollen</value>
+  </data>
+  <data name="t_upload_intro" xml:space="preserve">
+    <value>Falls sie Probleme damit haben dass ihre Filter Dateien nicht Korrekt geladen werden oder ein paar Items nicht Korrekt erkannt werden, bitte benutze das Formular unten um ihre Filter bei mir einzureichen und ich werde gucken das BEM in der Zukunft besser für dich funktioniert! Bitte benutze dies nur wenn sie Probleme haben.</value>
+  </data>
+  <data name="t_upload_message" xml:space="preserve">
+    <value>Bitte schreibe eine kurze Nachricht in der sie erklären welche Probleme sie mit ihren Filtern haben</value>
+  </data>
+  <data name="t_upload_scripts" xml:space="preserve">
+    <value>Scripte hochladen</value>
+  </data>
+  <data name="t_value" xml:space="preserve">
+    <value>Wert</value>
+  </data>
+  <data name="t_value_double_quotes" xml:space="preserve">
+    <value>Wert sollte in Anführungszeichen gesetzt sein</value>
+  </data>
+  <data name="s_write_protect" xml:space="preserve">
+    <value>Konnte Einstellungen nicht speichern, weil ein Fehler beim schreiben der Datei aufgetreten ist.</value>
+  </data>
+</root>

@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1">this is my long string</data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        [base64 mime encoded serialized .NET Framework object]
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        [base64 mime encoded string representing a byte array form of the .NET Framework object]
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="s_backed_up" xml:space="preserve">
+    <value>Originele {0} is gebackupt en nieuwe is succesvol opgeslagen.</value>
+  </data>
+  <data name="s_changes_to_file" xml:space="preserve">
+    <value>Je hebt wijzigingen gemaakt aan dit bestand. Sla deze wijzigingen eerst op.I{0}{0}Als je deze wijzigingen niet wilt opslaan klik op OK en laad het bestand opnieuw.</value>
+  </data>
+  <data name="s_confirm_delete_filter" xml:space="preserve">
+    <value>Weet u zeker dat u deze filterinvoer wilt verwijderen?</value>
+  </data>
+  <data name="s_confirm_delete_keyword" xml:space="preserve">
+    <value>Weet u zeker dat u dit trefwoord invoer wilt verwijderen</value>
+  </data>
+  <data name="s_could_not_open_file" xml:space="preserve">
+    <value>Kan het bestand ""{0}.txt"" niet vinden. Verifieer dat je het programma draait vanaf de BattleEye map op je server.</value>
+  </data>
+  <data name="s_done" xml:space="preserve">
+    <value>Klaar!</value>
+  </data>
+  <data name="s_edited" xml:space="preserve">
+    <value>aangepast</value>
+  </data>
+  <data name="s_failed_backed_up" xml:space="preserve">
+    <value>Kan het bestand niet opslaan. De volgende foutmelding is opgetreden:{0}{0}{1}</value>
+  </data>
+  <data name="s_fix_backslash" xml:space="preserve">
+    <value>De tekst bevat mogelijk backslashes welke "escaped" moeten worden, wil je dit oplossen?</value>
+  </data>
+  <data name="s_items_imported" xml:space="preserve">
+    <value>Geselecteerde items zijn geimporteerd. Vergeet niet je wijzigingen op te slaan.</value>
+  </data>
+  <data name="s_latest_version" xml:space="preserve">
+    <value>Laatste versie</value>
+  </data>
+  <data name="s_loading_error" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het laden van dit bestand. Is het een BattleEye bestand?</value>
+  </data>
+  <data name="s_need_keyword" xml:space="preserve">
+    <value>Je moet een trefwoord invullen. Als je een blank trefwoord wilt invullen druk je op enter.</value>
+  </data>
+  <data name="s_need_to_exception_type" xml:space="preserve">
+    <value>Je moet een exception type selecteren.</value>
+  </data>
+  <data name="s_need_to_logging_type" xml:space="preserve">
+    <value>Je moet een Logging Type selecteren.</value>
+  </data>
+  <data name="s_need_to_open_file" xml:space="preserve">
+    <value>Je moet eerst een bestand openen.</value>
+  </data>
+  <data name="s_need_to_select_filter" xml:space="preserve">
+    <value>Je moet eerst een filter selecteren.</value>
+  </data>
+  <data name="s_need_to_select_line" xml:space="preserve">
+    <value>Je moet eerst een regel selecteren.</value>
+  </data>
+  <data name="s_need_value" xml:space="preserve">
+    <value>Je moet een waarde invullen.</value>
+  </data>
+  <data name="s_nothing_to_import" xml:space="preserve">
+    <value>Je hebt niks geselecteerd om te importeren.</value>
+  </data>
+  <data name="s_not_scripts" xml:space="preserve">
+    <value>Deze lijst werkt anders dat scripts.{0}{0}We voegen een exceptie toe voor de gekozen excepties, maar de trefwoorden kunnen in sommige gevallen ook worden verwijderd.</value>
+  </data>
+  <data name="s_not_supported" xml:space="preserve">
+    <value>Sorry, dit bestand wordt nog niet ondersteund om te importeren door BEM.</value>
+  </data>
+  <data name="s_no_files_found" xml:space="preserve">
+    <value>Geen bestanden gevonden</value>
+  </data>
+  <data name="s_no_log" xml:space="preserve">
+    <value>Er is geen log voor dit bestand.</value>
+  </data>
+  <data name="s_processing" xml:space="preserve">
+    <value>Aan het verwerken</value>
+  </data>
+  <data name="s_scanning" xml:space="preserve">
+    <value>Aan het scannen</value>
+  </data>
+  <data name="s_too_long" xml:space="preserve">
+    <value>Dit logbestand is meer dan 50.000 regels lang. Alleen de eerste 50.000 regels worden gelezen.</value>
+  </data>
+  <data name="s_unable_to_launch" xml:space="preserve">
+    <value>Het is niet mogelijk om BEM op te starten. Controleer hetvolgende:{0}{0}- Je start BEM op vanaf je BattleEye map.{0}- Je hebt ARMA 3 op z'n minst 1 keer opgestart.</value>
+  </data>
+  <data name="s_update_application" xml:space="preserve">
+    <value>Applicatie updaten</value>
+  </data>
+  <data name="s_uploaded_zip" xml:space="preserve">
+    <value>ZIP file uploaden!</value>
+  </data>
+  <data name="s_upload_email" xml:space="preserve">
+    <value>Het opgegeven email adres is niet geldig.</value>
+  </data>
+  <data name="s_upload_explain" xml:space="preserve">
+    <value>Geef een korte uitleg over wat er niet werkt zodat we BEM beter kunnen maken.</value>
+  </data>
+  <data name="s_upload_one_file" xml:space="preserve">
+    <value>Kies alsjeblieft op z'n minst 1 bestand om te uploaden zodat we BEM beter kunnen maken.</value>
+  </data>
+  <data name="s_upload_thanks" xml:space="preserve">
+    <value>Je bestanden zijn geupload! Bedankt voor het opsturen van je scripts om BEM beter te maken!</value>
+  </data>
+  <data name="s_upload_upload_zip" xml:space="preserve">
+    <value>ZIP bestand aan het uploaden</value>
+  </data>
+  <data name="s_upload_zip" xml:space="preserve">
+    <value>ZIP bestand aan het maken</value>
+  </data>
+  <data name="s_wait" xml:space="preserve">
+    <value>Wacht!</value>
+  </data>
+  <data name="t_about" xml:space="preserve">
+    <value>Over</value>
+  </data>
+  <data name="t_add_filter" xml:space="preserve">
+    <value>Filter toevoegen</value>
+  </data>
+  <data name="t_add_keyword" xml:space="preserve">
+    <value>Trefwoord toevoegen</value>
+  </data>
+  <data name="t_cancel" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="t_check_for_updates" xml:space="preserve">
+    <value>Controleren op updates</value>
+  </data>
+  <data name="t_choose" xml:space="preserve">
+    <value>Kies</value>
+  </data>
+  <data name="t_choose_file" xml:space="preserve">
+    <value>Kies filter:</value>
+  </data>
+  <data name="t_currently_loaded" xml:space="preserve">
+    <value>Momenteel geladen</value>
+  </data>
+  <data name="t_donate" xml:space="preserve">
+    <value>Doneren</value>
+  </data>
+  <data name="t_edit_filter" xml:space="preserve">
+    <value>Bestand aanpasen</value>
+  </data>
+  <data name="t_edit_keyword" xml:space="preserve">
+    <value>Trefwoord aanpassen</value>
+  </data>
+  <data name="t_exception_type" xml:space="preserve">
+    <value>Exceptie Type</value>
+  </data>
+  <data name="t_idle" xml:space="preserve">
+    <value>Afwachtend</value>
+  </data>
+  <data name="t_import_as" xml:space="preserve">
+    <value>Geselecteerde importeren als </value>
+  </data>
+  <data name="t_import_from_logs" xml:space="preserve">
+    <value>Import vanuit Logs</value>
+  </data>
+  <data name="t_keyword" xml:space="preserve">
+    <value>Trefwoord</value>
+  </data>
+  <data name="t_keyword_backslash" xml:space="preserve">
+    <value>Trefwoorden met dubbele quotes moeten deze ge-escaped hebben met een backslash.</value>
+  </data>
+  <data name="t_keyword_double_quotes" xml:space="preserve">
+    <value>Trefwoorden met spaties moeten binnen dubbele quotes staan.</value>
+  </data>
+  <data name="t_load_file" xml:space="preserve">
+    <value>Bestand laden</value>
+  </data>
+  <data name="t_load_to_start" xml:space="preserve">
+    <value>Geen. Laad een bestand om te starten.</value>
+  </data>
+  <data name="t_logging_type" xml:space="preserve">
+    <value>Logtype</value>
+  </data>
+  <data name="t_logging_type_1" xml:space="preserve">
+    <value>Alleen loggen naar .log bestand</value>
+  </data>
+  <data name="t_logging_type_2" xml:space="preserve">
+    <value>Alleen naar console loggen</value>
+  </data>
+  <data name="t_logging_type_3" xml:space="preserve">
+    <value>Naar beiden loggen</value>
+  </data>
+  <data name="t_logging_type_4" xml:space="preserve">
+    <value>Kicken zonder logs</value>
+  </data>
+  <data name="t_logging_type_5" xml:space="preserve">
+    <value>Kicken en alleen naar .log bestand loggen</value>
+  </data>
+  <data name="t_logging_type_6" xml:space="preserve">
+    <value>Kicken en alleen naar console loggen</value>
+  </data>
+  <data name="t_logging_type_7" xml:space="preserve">
+    <value>Kicken en naar beide loggen</value>
+  </data>
+  <data name="t_no_file_selected" xml:space="preserve">
+    <value>Geen bestand gedetecteerd</value>
+  </data>
+  <data name="t_options" xml:space="preserve">
+    <value>Opties</value>
+  </data>
+  <data name="t_parameter_match_1" xml:space="preserve">
+    <value>De paramater moet gelijk zijn aan de exceptie.</value>
+  </data>
+  <data name="t_parameter_match_2" xml:space="preserve">
+    <value>De paramater moet de exceptie bevatten.</value>
+  </data>
+  <data name="t_remove_filter" xml:space="preserve">
+    <value>Filter verwijderen</value>
+  </data>
+  <data name="t_remove_keyword" xml:space="preserve">
+    <value>Trefwoord verwijderen</value>
+  </data>
+  <data name="t_save_file" xml:space="preserve">
+    <value>Bestand opslaan</value>
+  </data>
+  <data name="t_select_all" xml:space="preserve">
+    <value>Alles selecteren</value>
+  </data>
+  <data name="t_select_none" xml:space="preserve">
+    <value>Alles deselecteren</value>
+  </data>
+  <data name="t_send" xml:space="preserve">
+    <value>Versturen</value>
+  </data>
+  <data name="t_upload_email" xml:space="preserve">
+    <value>Laat optioneel je email adres achter als je denkt dat ik contact met je moet opnemen</value>
+  </data>
+  <data name="t_upload_filelist" xml:space="preserve">
+    <value>De volgende bestanden worden naar mij verzonden. Deselecteer de bestanden die je niet verzonden wilt hebben.</value>
+  </data>
+  <data name="t_upload_intro" xml:space="preserve">
+    <value>Als je problemen hebt met het laden van bestanden of het niet detecteren van sommige items kan je de bestanden naar mij sturen door middel van het formulier hieronder. Dan kan ik kijken of ik BEM nog beter kan maken! Gebruik dit alleen als je problemen ondervind met de applicatie.</value>
+  </data>
+  <data name="t_upload_message" xml:space="preserve">
+    <value>Omschrijf in het kort welke problemen je tegenkomt.</value>
+  </data>
+  <data name="t_upload_scripts" xml:space="preserve">
+    <value>Scripts uploaden</value>
+  </data>
+  <data name="t_value" xml:space="preserve">
+    <value>Waarde</value>
+  </data>
+  <data name="t_value_double_quotes" xml:space="preserve">
+    <value>Waarde moet tussen dubbele quotes staan</value>
+  </data>
+  <data name="s_write_protect" xml:space="preserve">
+    <value>Kan de instellingen niet opslaan vanwege een fout in het schrijven naar het bestand.</value>
+  </data>
+</root>

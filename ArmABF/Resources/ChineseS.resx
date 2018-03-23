@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="s_backed_up" xml:space="preserve">
+    <value>旧 {0} 己被备分 并储存了新{0}.</value>
+  </data>
+  <data name="s_changes_to_file" xml:space="preserve">
+    <value>你更改了档案, 请先储存.{0}{0},如果你不储存，按 OK 再载入新的档案.</value>
+  </data>
+  <data name="s_confirm_delete_filter" xml:space="preserve">
+    <value>你肯定要删除这个过滤器吗？</value>
+  </data>
+  <data name="s_confirm_delete_keyword" xml:space="preserve">
+    <value>你肯定要删除这个关键字吗?</value>
+  </data>
+  <data name="s_could_not_open_file" xml:space="preserve">
+    <value>找不到 ""{0}.txt"". 确定你是在你的伺服器由BattlEye目录开启这个档案.</value>
+  </data>
+  <data name="s_done" xml:space="preserve">
+    <value>完成!</value>
+  </data>
+  <data name="s_edited" xml:space="preserve">
+    <value>修改了.</value>
+  </data>
+  <data name="s_failed_backed_up" xml:space="preserve">
+    <value>不能储存. 发生了错误:{0}{0}{1}</value>
+  </data>
+  <data name="s_fix_backslash" xml:space="preserve">
+    <value>文件有一些反斜线可能要被跳脱, 你修改了吗?</value>
+  </data>
+  <data name="s_items_imported" xml:space="preserve">
+    <value>选择了的档案已被汇入. 请记得要储存.</value>
+  </data>
+  <data name="s_latest_version" xml:space="preserve">
+    <value>最新版本</value>
+  </data>
+  <data name="s_loading_error" xml:space="preserve">
+    <value>在载入这档案途中有错误, 那个是个BattleEye档案吗?</value>
+  </data>
+  <data name="s_need_keyword" xml:space="preserve">
+    <value>你要输入一个关键字. 如果你想要一个空白的关键字, 请输入</value>
+  </data>
+  <data name="s_need_to_exception_type" xml:space="preserve">
+    <value>你要先选择一种例外.</value>
+  </data>
+  <data name="s_need_to_logging_type" xml:space="preserve">
+    <value>您要先选择一种记录.</value>
+  </data>
+  <data name="s_need_to_open_file" xml:space="preserve">
+    <value>你要先开一个档案.</value>
+  </data>
+  <data name="s_need_to_select_filter" xml:space="preserve">
+    <value>您要先选择一个过滤器.</value>
+  </data>
+  <data name="s_need_to_select_line" xml:space="preserve">
+    <value>您要先选择一行.</value>
+  </data>
+  <data name="s_need_value" xml:space="preserve">
+    <value>您要输入一个数值.</value>
+  </data>
+  <data name="s_nothing_to_import" xml:space="preserve">
+    <value>您还未选择任何东西去汇入.</value>
+  </data>
+  <data name="s_not_scripts" xml:space="preserve">
+    <value>这列表比脚本的运作模式不同.{0}{0}我们会把你选择的都加入例外, 但是有些关键字可能会被删去.</value>
+  </data>
+  <data name="s_not_supported" xml:space="preserve">
+    <value>抱歉，BEM还未有能力汇入这个记录文件. 真的很抱歉.</value>
+  </data>
+  <data name="s_no_files_found" xml:space="preserve">
+    <value>找不到任何档案.</value>
+  </data>
+  <data name="s_no_log" xml:space="preserve">
+    <value>这个档案没有任何纪录.</value>
+  </data>
+  <data name="s_processing" xml:space="preserve">
+    <value>处理中</value>
+  </data>
+  <data name="s_scanning" xml:space="preserve">
+    <value>扫描中</value>
+  </data>
+  <data name="s_too_long" xml:space="preserve">
+    <value>这个纪录档案超过五万行.只会扫描头五万行.</value>
+  </data>
+  <data name="s_unable_to_launch" xml:space="preserve">
+    <value>无法开启BEM. 请确定能达到这两个要求:{0}{0}- 你是在BattlEye 文件夹开启BEM.{0}- 你最少运行一次ArmA 3 伺服器.</value>
+  </data>
+  <data name="s_update_application" xml:space="preserve">
+    <value>更新档案</value>
+  </data>
+  <data name="s_uploaded_zip" xml:space="preserve">
+    <value>上载了压缩档案（ZIP）!</value>
+  </data>
+  <data name="s_upload_email" xml:space="preserve">
+    <value>这个电邮地址不存在. 你打错字了吧？</value>
+  </data>
+  <data name="s_upload_explain" xml:space="preserve">
+    <value>为了可以令BEM更上一层楼，请告诉我们什么地方出问题. 谢谢了！！！（笑 </value>
+  </data>
+  <data name="s_upload_one_file" xml:space="preserve">
+    <value>为了可以令BEM更上一层楼，请上载至少一个档案. 谢谢了！！！（笑.</value>
+  </data>
+  <data name="s_upload_thanks" xml:space="preserve">
+    <value>已上载你的档案! 谢谢你上载这些档案耶! ！！！！（害羞</value>
+  </data>
+  <data name="s_upload_upload_zip" xml:space="preserve">
+    <value>上载压缩档案（ZIP）中</value>
+  </data>
+  <data name="s_upload_zip" xml:space="preserve">
+    <value>创造压缩档案（ZIP）中</value>
+  </data>
+  <data name="s_wait" xml:space="preserve">
+    <value>请等一等! 给一些耐性来（说笑，等多一下就可以了</value>
+  </data>
+  <data name="t_about" xml:space="preserve">
+    <value>关于BEM</value>
+  </data>
+  <data name="t_add_filter" xml:space="preserve">
+    <value>增加过滤器</value>
+  </data>
+  <data name="t_add_keyword" xml:space="preserve">
+    <value>增加关键字</value>
+  </data>
+  <data name="t_cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="t_check_for_updates" xml:space="preserve">
+    <value>检查有没有更新</value>
+  </data>
+  <data name="t_choose" xml:space="preserve">
+    <value>请选择</value>
+  </data>
+  <data name="t_choose_file" xml:space="preserve">
+    <value>请选择档案:</value>
+  </data>
+  <data name="t_currently_loaded" xml:space="preserve">
+    <value>暂时载入了</value>
+  </data>
+  <data name="t_donate" xml:space="preserve">
+    <value>捐赠（不一定要，但十分鼓励</value>
+  </data>
+  <data name="t_edit_filter" xml:space="preserve">
+    <value>更改过滤器</value>
+  </data>
+  <data name="t_edit_keyword" xml:space="preserve">
+    <value>更改关键字</value>
+  </data>
+  <data name="t_exception_type" xml:space="preserve">
+    <value>例外类型</value>
+  </data>
+  <data name="t_idle" xml:space="preserve">
+    <value>闲置（不是关掉了</value>
+  </data>
+  <data name="t_import_as" xml:space="preserve">
+    <value>把选择的汇入为 </value>
+  </data>
+  <data name="t_import_from_logs" xml:space="preserve">
+    <value>从记录汇入</value>
+  </data>
+  <data name="t_keyword" xml:space="preserve">
+    <value>关键字</value>
+  </data>
+  <data name="t_keyword_backslash" xml:space="preserve">
+    <value>有双引号（""）的关键字一定要有反斜线去跳脱.</value>
+  </data>
+  <data name="t_keyword_double_quotes" xml:space="preserve">
+    <value>有空格的关键字一定要在双引号（""）里面.</value>
+  </data>
+  <data name="t_load_file" xml:space="preserve">
+    <value>载入档案</value>
+  </data>
+  <data name="t_load_to_start" xml:space="preserve">
+    <value>什么都没有啊. 请载入一个档案去开始.</value>
+  </data>
+  <data name="t_logging_type" xml:space="preserve">
+    <value>纪录类型</value>
+  </data>
+  <data name="t_logging_type_1" xml:space="preserve">
+    <value>只记录在.log 档案</value>
+  </data>
+  <data name="t_logging_type_2" xml:space="preserve">
+    <value>只记录在控制台</value>
+  </data>
+  <data name="t_logging_type_3" xml:space="preserve">
+    <value>记录在.log和控制台</value>
+  </data>
+  <data name="t_logging_type_4" xml:space="preserve">
+    <value>踢走玩家（不记录）</value>
+  </data>
+  <data name="t_logging_type_5" xml:space="preserve">
+    <value>踢走玩家（只记录在.log 档案）</value>
+  </data>
+  <data name="t_logging_type_6" xml:space="preserve">
+    <value>踢走玩家（只记录在控制台）</value>
+  </data>
+  <data name="t_logging_type_7" xml:space="preserve">
+    <value>踢走玩家（记录在.log和控制台）</value>
+  </data>
+  <data name="t_no_file_selected" xml:space="preserve">
+    <value>什么档案都检测不到哦</value>
+  </data>
+  <data name="t_options" xml:space="preserve">
+    <value>设定</value>
+  </data>
+  <data name="t_parameter_match_1" xml:space="preserve">
+    <value>这参数一定要符合例外.</value>
+  </data>
+  <data name="t_parameter_match_2" xml:space="preserve">
+    <value>这参数一定要包含例外.</value>
+  </data>
+  <data name="t_remove_filter" xml:space="preserve">
+    <value>删去过滤器</value>
+  </data>
+  <data name="t_remove_keyword" xml:space="preserve">
+    <value>删去关键字</value>
+  </data>
+  <data name="t_save_file" xml:space="preserve">
+    <value>储存档案</value>
+  </data>
+  <data name="t_select_all" xml:space="preserve">
+    <value>选择所有东西</value>
+  </data>
+  <data name="t_select_none" xml:space="preserve">
+    <value>取消所有选择</value>
+  </data>
+  <data name="t_send" xml:space="preserve">
+    <value>传送！（效果音效</value>
+  </data>
+  <data name="t_upload_email" xml:space="preserve">
+    <value>（非必要）如果你觉得我要联络你的话, 你可以留下你的电邮地址（我不会给垃圾邮件的）</value>
+  </data>
+  <data name="t_upload_filelist" xml:space="preserve">
+    <value>以下的档案全都会传给我. 把不想给我的档案都取消选择吧</value>
+  </data>
+  <data name="t_upload_intro" xml:space="preserve">
+    <value>如果你的过滤器（很不幸地）有问题, 例如它们不能正确地载入, 或者某些东西没能正确的被检测, 请用以下的表格去提交你的过滤器. 我会努力的令BEM进步的！（正能量（真的有问题才用这个，不要突然把你的过滤器给我呀） .</value>
+  </data>
+  <data name="t_upload_message" xml:space="preserve">
+    <value>请花出一些时间写一写你的过滤器有什么问题，这会令我们有机会令BEM进步（笑</value>
+  </data>
+  <data name="t_upload_scripts" xml:space="preserve">
+    <value>上载脚本</value>
+  </data>
+  <data name="t_value" xml:space="preserve">
+    <value>数值</value>
+  </data>
+  <data name="t_value_double_quotes" xml:space="preserve">
+    <value>数值应该要在双引号（""）里面</value>
+  </data>
+  <data name="s_write_protect" xml:space="preserve">
+    <value>由于编写文件时出错，无法保存设置。</value>
+  </data>
+</root>

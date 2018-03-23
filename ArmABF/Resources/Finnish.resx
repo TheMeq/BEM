@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="s_backed_up" xml:space="preserve">
+    <value>Alkuperäinen {0} on varmuuskopioitu ja uusi versio tallennettu onnistuneesti.</value>
+  </data>
+  <data name="s_changes_to_file" xml:space="preserve">
+    <value>Olet tehnyt tähän tiedostoon muutoksia, tallenna tämä tiedosto ensin.{0}{0}Jos et tahdo tallentaa, klikkaa OK ja avaa uusi tiedosto uudelleen.</value>
+  </data>
+  <data name="s_confirm_delete_filter" xml:space="preserve">
+    <value>Haluatko varmasti poistaa tämän suodatinmerkinnän?</value>
+  </data>
+  <data name="s_confirm_delete_keyword" xml:space="preserve">
+    <value>Haluatko varmasti poistaa tämän avainsanan?</value>
+  </data>
+  <data name="s_could_not_open_file" xml:space="preserve">
+    <value>Tiedostoa ""{0}.txt"" ei voitu paikantaa. Varmista, että olet suorittamassa tätä ohjelmaa serverisi Battleye-hakemistosta.</value>
+  </data>
+  <data name="s_done" xml:space="preserve">
+    <value>Valmis!</value>
+  </data>
+  <data name="s_edited" xml:space="preserve">
+    <value>muokattu</value>
+  </data>
+  <data name="s_failed_backed_up" xml:space="preserve">
+    <value>Tätä tiedostoa ei voitu tallentaa. Tapahtui seuraava virhe:{0}{0}{1}</value>
+  </data>
+  <data name="s_fix_backslash" xml:space="preserve">
+    <value>Tekstissä voi olla joitain kenoviivoja jotka täytyy mahdollisesti ohittaa, haluatko korjata ne?</value>
+  </data>
+  <data name="s_items_imported" xml:space="preserve">
+    <value>Valitut kohteet on tuotu. Muistathan tallentaa muutokset.</value>
+  </data>
+  <data name="s_latest_version" xml:space="preserve">
+    <value>Viimeisin versio</value>
+  </data>
+  <data name="s_loading_error" xml:space="preserve">
+    <value>Tätä tiedostoa ladattaessa tapahtui virhe, onko kyseessä BattlEye -tiedosto?</value>
+  </data>
+  <data name="s_need_keyword" xml:space="preserve">
+    <value>Sinun täytyy syöttää hakusana. Jos haluat tyhjän hakuasnan, syötä ""</value>
+  </data>
+  <data name="s_need_to_exception_type" xml:space="preserve">
+    <value>Sinun tulee valita Poikkeustyyppi.</value>
+  </data>
+  <data name="s_need_to_logging_type" xml:space="preserve">
+    <value>Sinun tulee valita Kirjaustyyppi.</value>
+  </data>
+  <data name="s_need_to_open_file" xml:space="preserve">
+    <value>Sinun tulee avata tiedosto ensin.</value>
+  </data>
+  <data name="s_need_to_select_filter" xml:space="preserve">
+    <value>Sinun tulee valita suodatin ensin.</value>
+  </data>
+  <data name="s_need_to_select_line" xml:space="preserve">
+    <value>Sinun tulee valita rivi ensin.</value>
+  </data>
+  <data name="s_need_value" xml:space="preserve">
+    <value>Sinun tulee syöttää lukuarvo.</value>
+  </data>
+  <data name="s_nothing_to_import" xml:space="preserve">
+    <value>Et ole valinnut mitään tuotavaksi.</value>
+  </data>
+  <data name="s_not_scripts" xml:space="preserve">
+    <value>Tämä lista toimii eri tavalla kuin ohjelmakoodit.{0}{0}Me lisäämme poikkekusen valitsemillesi kohteille, mutta avainsanat voivat myös joissain tapauksissa tulla poistetuiksi.</value>
+  </data>
+  <data name="s_not_supported" xml:space="preserve">
+    <value>Pahoittelut, BEM ei vielä tue tämän lokitiedoston tuontia.</value>
+  </data>
+  <data name="s_no_files_found" xml:space="preserve">
+    <value>Ei löytyneitä tiedostoja</value>
+  </data>
+  <data name="s_no_log" xml:space="preserve">
+    <value>Sinulla ei ole lokia tälle tiedostolle</value>
+  </data>
+  <data name="s_processing" xml:space="preserve">
+    <value>Käsitellään</value>
+  </data>
+  <data name="s_scanning" xml:space="preserve">
+    <value>Skannataan</value>
+  </data>
+  <data name="s_too_long" xml:space="preserve">
+    <value>Tämä lokitiedosto on yli 50,000 riviä pitkä. Skannattiin vain ensimmäiset 50,000 riviä.</value>
+  </data>
+  <data name="s_unable_to_launch" xml:space="preserve">
+    <value>BEM ei tällä hetkellä pysty käynnistymään. Varmista, että molemmat seuraavista ehdoista on täytetty:{0}{0}- Olet suorittamassa ohjelmaa BattlEye -kansiostasi.{0}- Olet ajanut ArmA 3 -serverin ainakin kerran.</value>
+  </data>
+  <data name="s_update_application" xml:space="preserve">
+    <value>Päivitä ohjelma</value>
+  </data>
+  <data name="s_uploaded_zip" xml:space="preserve">
+    <value>ZIP-tiedosto siirretty!</value>
+  </data>
+  <data name="s_upload_email" xml:space="preserve">
+    <value>Antamasi sähköpostiosoite ei kelpaa.</value>
+  </data>
+  <data name="s_upload_explain" xml:space="preserve">
+    <value>Auttaaksesi BEM:n parantamisessa, kerro lyhyesti mikä ei toimi oikein.</value>
+  </data>
+  <data name="s_upload_one_file" xml:space="preserve">
+    <value>Auttaaksesi BEM:n parantamisessa, valitse vähintään 1 tiedosto lähetettäväksi.</value>
+  </data>
+  <data name="s_upload_thanks" xml:space="preserve">
+    <value>Tiedostosi on lähetetty! Kiitos, että jätit ohjelmakoodisi BEM:n parantamista varten!</value>
+  </data>
+  <data name="s_upload_upload_zip" xml:space="preserve">
+    <value>Lähetetään ZIP-tiedostoa</value>
+  </data>
+  <data name="s_upload_zip" xml:space="preserve">
+    <value>Luodaan ZIP-tiedostoa</value>
+  </data>
+  <data name="s_wait" xml:space="preserve">
+    <value>Odota!</value>
+  </data>
+  <data name="t_about" xml:space="preserve">
+    <value>Tietoa</value>
+  </data>
+  <data name="t_add_filter" xml:space="preserve">
+    <value>Lisää suodatin</value>
+  </data>
+  <data name="t_add_keyword" xml:space="preserve">
+    <value>Lisää avainsana</value>
+  </data>
+  <data name="t_cancel" xml:space="preserve">
+    <value>Peruuta</value>
+  </data>
+  <data name="t_check_for_updates" xml:space="preserve">
+    <value>Tarkista, onko päivityksiä</value>
+  </data>
+  <data name="t_choose" xml:space="preserve">
+    <value>Valitse</value>
+  </data>
+  <data name="t_choose_file" xml:space="preserve">
+    <value>Valitse Tiedosto:</value>
+  </data>
+  <data name="t_currently_loaded" xml:space="preserve">
+    <value>Ladattu tällä hetkellä</value>
+  </data>
+  <data name="t_donate" xml:space="preserve">
+    <value>Lahjoita</value>
+  </data>
+  <data name="t_edit_filter" xml:space="preserve">
+    <value>Muokkaa Suodatinta</value>
+  </data>
+  <data name="t_edit_keyword" xml:space="preserve">
+    <value>Muokkaa Avainsanaa</value>
+  </data>
+  <data name="t_exception_type" xml:space="preserve">
+    <value>Poikkeuksen tyyppi</value>
+  </data>
+  <data name="t_idle" xml:space="preserve">
+    <value>Toimeton</value>
+  </data>
+  <data name="t_import_as" xml:space="preserve">
+    <value>Tuo valitut muodossa</value>
+  </data>
+  <data name="t_import_from_logs" xml:space="preserve">
+    <value>Tuo lokeista</value>
+  </data>
+  <data name="t_keyword" xml:space="preserve">
+    <value>Avainsana</value>
+  </data>
+  <data name="t_keyword_backslash" xml:space="preserve">
+    <value>Kaksoisheittomerkit avainsanoissa tulee ohittaa kenoviivalla.</value>
+  </data>
+  <data name="t_keyword_double_quotes" xml:space="preserve">
+    <value>Välilyöntejä sisältävät avainsanat tulee rajata kaksoisheittomerkein.</value>
+  </data>
+  <data name="t_load_file" xml:space="preserve">
+    <value>Lataa tiedosto</value>
+  </data>
+  <data name="t_load_to_start" xml:space="preserve">
+    <value>Tyhjä. Lataa tiedosto aloittaaksesi.</value>
+  </data>
+  <data name="t_logging_type" xml:space="preserve">
+    <value>Kirjaustyyppi</value>
+  </data>
+  <data name="t_logging_type_1" xml:space="preserve">
+    <value>Kirjaa pelkästään .log -tiedostoon</value>
+  </data>
+  <data name="t_logging_type_2" xml:space="preserve">
+    <value>Kirjaa pelkästään konsoliin</value>
+  </data>
+  <data name="t_logging_type_3" xml:space="preserve">
+    <value>Kirjaa molempiin</value>
+  </data>
+  <data name="t_logging_type_4" xml:space="preserve">
+    <value>Potki ilman lokia</value>
+  </data>
+  <data name="t_logging_type_5" xml:space="preserve">
+    <value>Potki ja kirjaa ainoastaan .log -tiedostoon</value>
+  </data>
+  <data name="t_logging_type_6" xml:space="preserve">
+    <value>Potki ja kirjaa ainoastaan konsoliin</value>
+  </data>
+  <data name="t_logging_type_7" xml:space="preserve">
+    <value>Potki ja kirjaa molempiin</value>
+  </data>
+  <data name="t_no_file_selected" xml:space="preserve">
+    <value>Ei tiedostoa havaittu</value>
+  </data>
+  <data name="t_options" xml:space="preserve">
+    <value>Asetukset</value>
+  </data>
+  <data name="t_parameter_match_1" xml:space="preserve">
+    <value>Muuttujan tulee täsmälleen vastata poikkeusta.</value>
+  </data>
+  <data name="t_parameter_match_2" xml:space="preserve">
+    <value>Muuttujan tulee sisältää poikkeus.</value>
+  </data>
+  <data name="t_remove_filter" xml:space="preserve">
+    <value>Poista suodatin</value>
+  </data>
+  <data name="t_remove_keyword" xml:space="preserve">
+    <value>Poista avainsana</value>
+  </data>
+  <data name="t_save_file" xml:space="preserve">
+    <value>Tallenna tiedosto</value>
+  </data>
+  <data name="t_select_all" xml:space="preserve">
+    <value>Valitse kaikki</value>
+  </data>
+  <data name="t_select_none" xml:space="preserve">
+    <value>Älä valitse mitään</value>
+  </data>
+  <data name="t_send" xml:space="preserve">
+    <value>Lähetä</value>
+  </data>
+  <data name="t_upload_email" xml:space="preserve">
+    <value>Vaihtoehtoisesti, jätä minulle sinun sähköpostiosoitteesi, jos uskot että minun tarvitsee ottaa sinuun yhteyttä.</value>
+  </data>
+  <data name="t_upload_filelist" xml:space="preserve">
+    <value>Seuraavat tiedostot lähetetään minulle, poista valinta niiden tiedostojen kohdalta joita et halua lähetettävän</value>
+  </data>
+  <data name="t_upload_intro" xml:space="preserve">
+    <value>Jos kohtaat ongelmia suodatintiedostojesi latautumisen kanssa, tai jos tietyt kohteet eivät tule havaituksi oikein, käytäthän alla olevaa lomaketta lähettääksesi suodattimesi minulle, niin katson saanko BEM:n toimimaan sinulle paremmin! Käytäthän tätä lomaketta vain jos kohtaat ongelmia.</value>
+  </data>
+  <data name="t_upload_message" xml:space="preserve">
+    <value>Kirjoita lyhyt kuvaus siitä millaisia ongelmia sinulla on suodattimiesi kanssa</value>
+  </data>
+  <data name="t_upload_scripts" xml:space="preserve">
+    <value>Lähetä ohjelmakoodeja</value>
+  </data>
+  <data name="t_value" xml:space="preserve">
+    <value>Arvo</value>
+  </data>
+  <data name="t_value_double_quotes" xml:space="preserve">
+    <value>Arvon tulisi olla rajattu kaksoisheittomerkein</value>
+  </data>
+  <data name="s_write_protect" xml:space="preserve">
+    <value>Asetuksia ei voitu tallentaa tiedoston kirjoittamisen virheestä johtuen.</value>
+  </data>
+</root>
